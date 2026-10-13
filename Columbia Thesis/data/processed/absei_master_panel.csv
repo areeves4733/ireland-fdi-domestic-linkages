@@ -1,0 +1,301 @@
+year,ownership,sector,irish_materials,irish_materials_share,irish_services,irish_services_share,value_added,value_added_per_employee
+2000,FOREIGN,"Business, Financial & Other Services",84.0,40.0,136.0,,1404.0,178.0
+2000,FOREIGN,"Energy, Water, Waste & Construction",13.0,33.0,6.0,,24.0,30.0
+2000,FOREIGN,"Food, Drink & Primary Production",754.0,66.0,536.0,,1954.0,167.0
+2000,FOREIGN,Information & Communication Services,1158.0,17.0,1486.0,,8508.0,211.0
+2000,FOREIGN,Modern Manufacturing,2512.0,17.0,2289.0,,20220.0,266.0
+2000,FOREIGN,Traditional Manufacturing,825.0,29.0,604.0,,2128.0,60.0
+2000,IRISH,"Business, Financial & Other Services",338.0,57.0,217.0,,1068.0,83.0
+2000,IRISH,"Energy, Water, Waste & Construction",834.0,91.0,867.0,,699.0,118.0
+2000,IRISH,"Food, Drink & Primary Production",5488.0,82.0,1036.0,,1437.0,35.0
+2000,IRISH,Information & Communication Services,125.0,59.0,266.0,,673.0,54.0
+2000,IRISH,Modern Manufacturing,193.0,31.0,134.0,,402.0,36.0
+2000,IRISH,Traditional Manufacturing,1394.0,50.0,824.0,,2109.0,38.0
+2001,FOREIGN,"Business, Financial & Other Services",70.0,34.0,123.0,,1261.0,172.0
+2001,FOREIGN,"Energy, Water, Waste & Construction",17.0,36.0,2.0,,33.0,41.0
+2001,FOREIGN,"Food, Drink & Primary Production",784.0,66.0,619.0,,2102.0,195.0
+2001,FOREIGN,Information & Communication Services,1169.0,19.0,1416.0,,9480.0,233.0
+2001,FOREIGN,Modern Manufacturing,2758.0,18.0,1877.0,,22411.0,311.0
+2001,FOREIGN,Traditional Manufacturing,809.0,30.0,650.0,,2206.0,70.0
+2001,IRISH,"Business, Financial & Other Services",377.0,66.0,210.0,,1149.0,95.0
+2001,IRISH,"Energy, Water, Waste & Construction",863.0,89.0,871.0,,703.0,111.0
+2001,IRISH,"Food, Drink & Primary Production",5887.0,88.0,1118.0,,1717.0,42.0
+2001,IRISH,Information & Communication Services,125.0,59.0,272.0,,948.0,70.0
+2001,IRISH,Modern Manufacturing,208.0,33.0,155.0,,443.0,42.0
+2001,IRISH,Traditional Manufacturing,1601.0,57.0,862.0,,2075.0,40.0
+2002,FOREIGN,"Business, Financial & Other Services",25.0,15.0,89.0,,1427.0,196.0
+2002,FOREIGN,"Energy, Water, Waste & Construction",14.0,43.0,0.0,,32.0,42.0
+2002,FOREIGN,"Food, Drink & Primary Production",763.0,69.0,577.0,,2050.0,188.0
+2002,FOREIGN,Information & Communication Services,885.0,15.0,1226.0,,9121.0,244.0
+2002,FOREIGN,Modern Manufacturing,2397.0,15.0,2092.0,,24558.0,360.0
+2002,FOREIGN,Traditional Manufacturing,869.0,36.0,558.0,,2319.0,78.0
+2002,IRISH,"Business, Financial & Other Services",336.0,66.0,278.0,,1270.0,113.0
+2002,IRISH,"Energy, Water, Waste & Construction",900.0,90.0,904.0,,1019.0,114.0
+2002,IRISH,"Food, Drink & Primary Production",5598.0,85.0,1126.0,,2050.0,52.0
+2002,IRISH,Information & Communication Services,74.0,45.0,221.0,,682.0,59.0
+2002,IRISH,Modern Manufacturing,205.0,36.0,159.0,,397.0,40.0
+2002,IRISH,Traditional Manufacturing,1573.0,58.0,727.0,,2268.0,46.0
+2003,FOREIGN,"Business, Financial & Other Services",64.0,32.0,93.0,,2022.0,244.0
+2003,FOREIGN,"Energy, Water, Waste & Construction",20.0,65.0,3.0,,39.0,55.0
+2003,FOREIGN,"Food, Drink & Primary Production",640.0,63.0,571.0,,3550.0,367.0
+2003,FOREIGN,Information & Communication Services,914.0,15.0,1219.0,,9925.0,262.0
+2003,FOREIGN,Modern Manufacturing,2297.0,14.0,2268.0,,19052.0,285.0
+2003,FOREIGN,Traditional Manufacturing,635.0,29.0,534.0,,2418.0,88.0
+2003,IRISH,"Business, Financial & Other Services",337.0,70.0,270.0,,1490.0,149.0
+2003,IRISH,"Energy, Water, Waste & Construction",758.0,87.0,879.0,,1068.0,122.0
+2003,IRISH,"Food, Drink & Primary Production",5243.0,84.0,1141.0,,1655.0,46.0
+2003,IRISH,Information & Communication Services,109.0,60.0,182.0,,627.0,62.0
+2003,IRISH,Modern Manufacturing,186.0,35.0,135.0,,415.0,44.0
+2003,IRISH,Traditional Manufacturing,1623.0,60.0,691.0,,2189.0,49.0
+2004,FOREIGN,"Business, Financial & Other Services",62.0,28.0,104.0,,2272.0,232.0
+2004,FOREIGN,"Energy, Water, Waste & Construction",8.0,36.0,4.0,,57.0,102.0
+2004,FOREIGN,"Food, Drink & Primary Production",594.0,57.0,597.0,,2433.0,274.0
+2004,FOREIGN,Information & Communication Services,818.0,14.0,1227.0,,9477.0,252.0
+2004,FOREIGN,Modern Manufacturing,1962.0,12.0,2153.0,,22641.0,333.0
+2004,FOREIGN,Traditional Manufacturing,536.0,27.0,478.0,,2345.0,96.0
+2004,IRISH,"Business, Financial & Other Services",292.0,67.0,262.0,,1935.0,170.0
+2004,IRISH,"Energy, Water, Waste & Construction",884.0,84.0,1097.0,,1127.0,124.0
+2004,IRISH,"Food, Drink & Primary Production",5422.0,84.0,1123.0,,1586.0,45.0
+2004,IRISH,Information & Communication Services,112.0,53.0,190.0,,677.0,69.0
+2004,IRISH,Modern Manufacturing,163.0,31.0,152.0,,390.0,44.0
+2004,IRISH,Traditional Manufacturing,1641.0,56.0,716.0,,2324.0,55.0
+2005,FOREIGN,"Business, Financial & Other Services",71.0,20.0,123.0,,2435.0,223.0
+2005,FOREIGN,"Energy, Water, Waste & Construction",8.0,32.0,9.0,,59.0,87.0
+2005,FOREIGN,"Food, Drink & Primary Production",603.0,54.0,651.0,,2490.0,267.0
+2005,FOREIGN,Information & Communication Services,558.0,9.0,1185.0,,11200.0,282.0
+2005,FOREIGN,Modern Manufacturing,1569.0,9.0,2017.0,,24425.0,352.0
+2005,FOREIGN,Traditional Manufacturing,500.0,24.0,484.0,,2170.0,92.0
+2005,IRISH,"Business, Financial & Other Services",265.0,62.0,310.0,,2269.0,174.0
+2005,IRISH,"Energy, Water, Waste & Construction",999.0,84.0,1259.0,,1284.0,137.0
+2005,IRISH,"Food, Drink & Primary Production",5597.0,85.0,1165.0,,1690.0,46.0
+2005,IRISH,Information & Communication Services,109.0,50.0,207.0,,792.0,79.0
+2005,IRISH,Modern Manufacturing,154.0,29.0,147.0,,391.0,46.0
+2005,IRISH,Traditional Manufacturing,1522.0,52.0,719.0,,2503.0,60.0
+2006,FOREIGN,"Business, Financial & Other Services",27.0,8.0,167.0,,2795.0,233.0
+2006,FOREIGN,"Energy, Water, Waste & Construction",12.0,24.0,8.0,,58.0,91.0
+2006,FOREIGN,"Food, Drink & Primary Production",764.0,58.0,672.0,,2898.0,283.0
+2006,FOREIGN,Information & Communication Services,506.0,8.0,1309.0,,11884.0,305.0
+2006,FOREIGN,Modern Manufacturing,1604.0,9.0,2238.0,,20782.0,307.0
+2006,FOREIGN,Traditional Manufacturing,392.0,17.0,440.0,,2270.0,99.0
+2006,IRISH,"Business, Financial & Other Services",335.0,66.0,314.0,,2524.0,168.0
+2006,IRISH,"Energy, Water, Waste & Construction",1147.0,82.0,1577.0,,1584.0,150.0
+2006,IRISH,"Food, Drink & Primary Production",5632.0,84.0,1148.0,,1743.0,50.0
+2006,IRISH,Information & Communication Services,117.0,53.0,216.0,,842.0,80.0
+2006,IRISH,Modern Manufacturing,170.0,28.0,159.0,,463.0,52.0
+2006,IRISH,Traditional Manufacturing,1586.0,48.0,742.0,,2870.0,63.0
+2007,FOREIGN,"Business, Financial & Other Services",26.0,7.0,189.0,,3389.0,263.0
+2007,FOREIGN,"Energy, Water, Waste & Construction",18.0,35.0,5.0,,107.0,200.0
+2007,FOREIGN,"Food, Drink & Primary Production",751.0,51.0,697.0,,2331.0,243.0
+2007,FOREIGN,Information & Communication Services,464.0,7.0,1448.0,,12699.0,330.0
+2007,FOREIGN,Modern Manufacturing,1611.0,8.0,2480.0,,22117.0,312.0
+2007,FOREIGN,Traditional Manufacturing,413.0,18.0,471.0,,2279.0,105.0
+2007,IRISH,"Business, Financial & Other Services",213.0,60.0,421.0,,2422.0,150.0
+2007,IRISH,"Energy, Water, Waste & Construction",1362.0,79.0,1541.0,,1847.0,144.0
+2007,IRISH,"Food, Drink & Primary Production",6073.0,83.0,1190.0,,2330.0,65.0
+2007,IRISH,Information & Communication Services,156.0,57.0,255.0,,944.0,89.0
+2007,IRISH,Modern Manufacturing,158.0,25.0,163.0,,449.0,50.0
+2007,IRISH,Traditional Manufacturing,1640.0,48.0,787.0,,2991.0,72.0
+2008,FOREIGN,"Business, Financial & Other Services",27.0,6.0,182.0,,3049.0,231.0
+2008,FOREIGN,"Energy, Water, Waste & Construction",18.0,39.0,5.0,,80.0,147.0
+2008,FOREIGN,"Food, Drink & Primary Production",916.0,52.0,752.0,,3330.0,330.0
+2008,FOREIGN,Information & Communication Services,478.0,8.0,1490.0,,10629.0,266.0
+2008,FOREIGN,Modern Manufacturing,1480.0,8.0,2139.0,,22464.0,328.0
+2008,FOREIGN,Traditional Manufacturing,375.0,16.0,415.0,,2112.0,107.0
+2008,IRISH,"Business, Financial & Other Services",275.0,55.0,562.0,,2858.0,134.0
+2008,IRISH,"Energy, Water, Waste & Construction",1571.0,80.0,1824.0,,2138.0,138.0
+2008,IRISH,"Food, Drink & Primary Production",6012.0,82.0,1117.0,,2094.0,64.0
+2008,IRISH,Information & Communication Services,141.0,57.0,266.0,,974.0,90.0
+2008,IRISH,Modern Manufacturing,143.0,22.0,149.0,,439.0,59.0
+2008,IRISH,Traditional Manufacturing,1557.0,48.0,698.0,,2694.0,75.0
+2009,FOREIGN,"Business, Financial & Other Services",34.0,8.0,170.0,,3271.0,192.0
+2009,FOREIGN,"Energy, Water, Waste & Construction",0.0,4.0,2.0,,57.0,137.0
+2009,FOREIGN,"Food, Drink & Primary Production",854.0,54.0,667.0,,2847.0,298.0
+2009,FOREIGN,Information & Communication Services,372.0,7.0,1529.0,,10674.0,293.0
+2009,FOREIGN,Modern Manufacturing,964.0,9.0,1930.0,,23722.0,375.0
+2009,FOREIGN,Traditional Manufacturing,272.0,17.0,334.0,,1545.0,93.0
+2009,IRISH,"Business, Financial & Other Services",186.0,51.0,449.0,,2840.0,145.0
+2009,IRISH,"Energy, Water, Waste & Construction",1089.0,79.0,1487.0,,1508.0,131.0
+2009,IRISH,"Food, Drink & Primary Production",4955.0,82.0,952.0,,2012.0,66.0
+2009,IRISH,Information & Communication Services,109.0,56.0,243.0,,929.0,88.0
+2009,IRISH,Modern Manufacturing,118.0,22.0,138.0,,404.0,56.0
+2009,IRISH,Traditional Manufacturing,1044.0,49.0,554.0,,1775.0,59.0
+2010,FOREIGN,"Business, Financial & Other Services",38.0,,216.0,,,
+2010,FOREIGN,"Energy, Water, Waste & Construction",2.0,,,,,
+2010,FOREIGN,"Food, Drink & Primary Production",,,,,2927.0,325.0
+2010,FOREIGN,Information & Communication Services,278.0,6.0,1787.0,,11454.0,279.0
+2010,FOREIGN,Modern Manufacturing,1071.0,10.0,1787.0,,25355.0,431.0
+2010,FOREIGN,Traditional Manufacturing,315.0,15.0,324.0,,1792.0,108.0
+2010,IRISH,"Business, Financial & Other Services",173.0,45.0,463.0,,,
+2010,IRISH,"Energy, Water, Waste & Construction",,,,,,
+2010,IRISH,"Food, Drink & Primary Production",,,,,1898.0,62.0
+2010,IRISH,Information & Communication Services,141.0,60.0,264.0,,998.0,86.0
+2010,IRISH,Modern Manufacturing,105.0,21.0,152.0,,429.0,62.0
+2010,IRISH,Traditional Manufacturing,809.0,44.0,574.0,,1672.0,59.0
+2011,FOREIGN,"Business, Financial & Other Services",32.0,,278.0,,,
+2011,FOREIGN,"Energy, Water, Waste & Construction",,,,,,
+2011,FOREIGN,"Food, Drink & Primary Production",,,,,2379.0,
+2011,FOREIGN,Information & Communication Services,344.0,7.0,2098.0,,13598.0,300.0
+2011,FOREIGN,Modern Manufacturing,1232.0,10.0,1670.0,,28728.0,480.0
+2011,FOREIGN,Traditional Manufacturing,372.0,16.0,339.0,,1896.0,112.0
+2011,IRISH,"Business, Financial & Other Services",160.0,46.0,481.0,,,
+2011,IRISH,"Energy, Water, Waste & Construction",,,,,,
+2011,IRISH,"Food, Drink & Primary Production",,,,,1980.0,
+2011,IRISH,Information & Communication Services,143.0,53.0,296.0,,1059.0,84.0
+2011,IRISH,Modern Manufacturing,141.0,25.0,140.0,,468.0,62.0
+2011,IRISH,Traditional Manufacturing,1000.0,43.0,626.0,,1713.0,57.0
+2012,FOREIGN,"Business, Financial & Other Services",33.0,,270.0,,,
+2012,FOREIGN,"Energy, Water, Waste & Construction",,,,,,
+2012,FOREIGN,"Food, Drink & Primary Production",,,,,3639.0,
+2012,FOREIGN,Information & Communication Services,376.0,7.0,2067.0,,15852.0,322.0
+2012,FOREIGN,Modern Manufacturing,1218.0,10.0,1699.0,,27140.0,469.0
+2012,FOREIGN,Traditional Manufacturing,401.0,17.0,341.0,,1800.0,109.0
+2012,IRISH,"Business, Financial & Other Services",236.0,51.0,584.0,,,
+2012,IRISH,"Energy, Water, Waste & Construction",,,,,,
+2012,IRISH,"Food, Drink & Primary Production",,,,,2050.0,
+2012,IRISH,Information & Communication Services,135.0,49.0,312.0,,1168.0,87.0
+2012,IRISH,Modern Manufacturing,157.0,23.0,151.0,,604.0,68.0
+2012,IRISH,Traditional Manufacturing,957.0,42.0,616.0,,1692.0,58.0
+2013,FOREIGN,"Business, Financial & Other Services",30.0,,252.0,,,
+2013,FOREIGN,"Energy, Water, Waste & Construction",,,17.0,,,
+2013,FOREIGN,"Food, Drink & Primary Production",,,666.0,,3475.0,
+2013,FOREIGN,Information & Communication Services,425.0,7.0,2215.0,,16493.0,318.0
+2013,FOREIGN,Modern Manufacturing,1231.0,11.0,1784.0,,22865.0,396.0
+2013,FOREIGN,Traditional Manufacturing,420.0,17.0,376.0,,1749.0,106.0
+2013,IRISH,"Business, Financial & Other Services",257.0,50.0,625.0,,,
+2013,IRISH,"Energy, Water, Waste & Construction",,,809.0,,,
+2013,IRISH,"Food, Drink & Primary Production",,,1061.0,,2477.0,
+2013,IRISH,Information & Communication Services,136.0,46.0,321.0,,1286.0,89.0
+2013,IRISH,Modern Manufacturing,152.0,21.0,147.0,,573.0,68.0
+2013,IRISH,Traditional Manufacturing,1152.0,46.0,633.0,,1818.0,59.0
+2014,FOREIGN,"Business, Financial & Other Services",31.0,6.0,292.0,40.0,3367.0,174.0
+2014,FOREIGN,"Energy, Water, Waste & Construction",,,,,,
+2014,FOREIGN,"Food, Drink & Primary Production",,,,,,
+2014,FOREIGN,Information & Communication Services,540.0,8.0,2310.0,8.0,16456.0,309.0
+2014,FOREIGN,Modern Manufacturing,1272.0,10.0,1726.0,21.0,21861.0,379.0
+2014,FOREIGN,Traditional Manufacturing,431.0,13.0,368.0,58.0,1669.0,102.0
+2014,IRISH,"Business, Financial & Other Services",265.0,45.0,690.0,46.0,2674.0,109.0
+2014,IRISH,"Energy, Water, Waste & Construction",,,,,,
+2014,IRISH,"Food, Drink & Primary Production",,,,,,
+2014,IRISH,Information & Communication Services,142.0,42.0,373.0,69.0,1467.0,90.0
+2014,IRISH,Modern Manufacturing,181.0,25.0,156.0,72.0,615.0,72.0
+2014,IRISH,Traditional Manufacturing,1401.0,47.0,730.0,84.0,2149.0,63.0
+2015,FOREIGN,"Business, Financial & Other Services",45.0,10.0,371.0,34.0,4895.0,217.0
+2015,FOREIGN,"Energy, Water, Waste & Construction",,,,,,
+2015,FOREIGN,"Food, Drink & Primary Production",,,,,,
+2015,FOREIGN,Information & Communication Services,495.0,8.0,1967.0,6.0,20014.0,344.0
+2015,FOREIGN,Modern Manufacturing,1289.0,9.0,1743.0,17.0,26126.0,445.0
+2015,FOREIGN,Traditional Manufacturing,446.0,11.0,365.0,57.0,2169.0,127.0
+2015,IRISH,"Business, Financial & Other Services",295.0,40.0,774.0,44.0,3294.0,122.0
+2015,IRISH,"Energy, Water, Waste & Construction",,,,,,
+2015,IRISH,"Food, Drink & Primary Production",,,,,,
+2015,IRISH,Information & Communication Services,164.0,38.0,419.0,68.0,1703.0,94.0
+2015,IRISH,Modern Manufacturing,207.0,23.0,153.0,70.0,756.0,83.0
+2015,IRISH,Traditional Manufacturing,1554.0,47.0,795.0,83.0,2494.0,67.0
+2016,FOREIGN,"Business, Financial & Other Services",88.0,17.0,431.0,33.0,6002.0,249.0
+2016,FOREIGN,"Energy, Water, Waste & Construction",,,13.0,,,
+2016,FOREIGN,"Food, Drink & Primary Production",,,670.0,,,
+2016,FOREIGN,Information & Communication Services,468.0,7.0,2236.0,6.0,21259.0,345.0
+2016,FOREIGN,Modern Manufacturing,1552.0,10.0,1700.0,17.0,31097.0,508.0
+2016,FOREIGN,Traditional Manufacturing,502.0,13.0,363.0,61.0,2222.0,132.0
+2016,IRISH,"Business, Financial & Other Services",327.0,38.0,834.0,43.0,3570.0,131.0
+2016,IRISH,"Energy, Water, Waste & Construction",,,1444.0,,,
+2016,IRISH,"Food, Drink & Primary Production",,,1136.0,,,
+2016,IRISH,Information & Communication Services,152.0,34.0,392.0,62.0,1763.0,99.0
+2016,IRISH,Modern Manufacturing,214.0,20.0,169.0,66.0,775.0,81.0
+2016,IRISH,Traditional Manufacturing,1421.0,43.0,816.0,83.0,2440.0,67.0
+2017,FOREIGN,"Business, Financial & Other Services",102.0,19.0,506.0,30.0,6752.0,271.0
+2017,FOREIGN,"Energy, Water, Waste & Construction",,,18.0,35.0,,
+2017,FOREIGN,"Food, Drink & Primary Production",,,661.0,34.0,,
+2017,FOREIGN,Information & Communication Services,463.0,6.0,2584.0,6.0,22059.0,322.0
+2017,FOREIGN,Modern Manufacturing,1496.0,10.0,1847.0,15.0,34218.0,541.0
+2017,FOREIGN,Traditional Manufacturing,590.0,14.0,367.0,66.0,2524.0,141.0
+2017,IRISH,"Business, Financial & Other Services",345.0,37.0,854.0,42.0,3536.0,122.0
+2017,IRISH,"Energy, Water, Waste & Construction",,,1535.0,66.0,,
+2017,IRISH,"Food, Drink & Primary Production",,,1252.0,85.0,,
+2017,IRISH,Information & Communication Services,150.0,29.0,456.0,64.0,1922.0,100.0
+2017,IRISH,Modern Manufacturing,243.0,22.0,188.0,67.0,805.0,81.0
+2017,IRISH,Traditional Manufacturing,1585.0,43.0,879.0,84.0,2764.0,70.0
+2018,FOREIGN,"Business, Financial & Other Services",91.0,18.0,567.0,29.0,8187.0,294.0
+2018,FOREIGN,"Energy, Water, Waste & Construction",,,27.0,39.0,,
+2018,FOREIGN,"Food, Drink & Primary Production",,,615.0,34.0,,
+2018,FOREIGN,Information & Communication Services,234.0,4.0,3139.0,6.0,28586.0,384.0
+2018,FOREIGN,Modern Manufacturing,1871.0,10.0,1847.0,13.0,44135.0,647.0
+2018,FOREIGN,Traditional Manufacturing,562.0,14.0,352.0,63.0,2573.0,142.0
+2018,IRISH,"Business, Financial & Other Services",354.0,38.0,892.0,43.0,3660.0,129.0
+2018,IRISH,"Energy, Water, Waste & Construction",,,1684.0,66.0,,
+2018,IRISH,"Food, Drink & Primary Production",,,1572.0,82.0,,
+2018,IRISH,Information & Communication Services,145.0,28.0,513.0,67.0,2122.0,101.0
+2018,IRISH,Modern Manufacturing,230.0,20.0,196.0,72.0,806.0,82.0
+2018,IRISH,Traditional Manufacturing,1624.0,43.0,867.0,81.0,2980.0,74.0
+2019,FOREIGN,"Business, Financial & Other Services",146.0,27.0,905.0,34.0,9331.0,301.0
+2019,FOREIGN,"Energy, Water, Waste & Construction",0.0,,,,102.0,168.0
+2019,FOREIGN,"Food, Drink & Primary Production",856.0,,,,3758.0,503.0
+2019,FOREIGN,Information & Communication Services,265.0,3.0,4206.0,7.0,43421.0,528.0
+2019,FOREIGN,Modern Manufacturing,2119.0,13.0,2060.0,13.0,44117.0,622.0
+2019,FOREIGN,Traditional Manufacturing,414.0,15.0,403.0,63.0,2260.0,129.0
+2019,IRISH,"Business, Financial & Other Services",400.0,37.0,1047.0,35.0,3573.0,118.0
+2019,IRISH,"Energy, Water, Waste & Construction",1073.0,,,,2587.0,152.0
+2019,IRISH,"Food, Drink & Primary Production",8771.0,,,,3369.0,83.0
+2019,IRISH,Information & Communication Services,168.0,28.0,541.0,68.0,2355.0,106.0
+2019,IRISH,Modern Manufacturing,245.0,24.0,195.0,73.0,751.0,74.0
+2019,IRISH,Traditional Manufacturing,1749.0,44.0,877.0,82.0,3415.0,82.0
+2020,FOREIGN,"Business, Financial & Other Services",138.0,24.0,972.0,37.0,10599.0,326.0
+2020,FOREIGN,"Energy, Water, Waste & Construction",0.0,,,,,
+2020,FOREIGN,"Food, Drink & Primary Production",947.0,,,,,
+2020,FOREIGN,Information & Communication Services,254.0,4.0,4431.0,7.0,52572.0,572.0
+2020,FOREIGN,Modern Manufacturing,1979.0,12.0,2210.0,13.0,51861.0,648.0
+2020,FOREIGN,Traditional Manufacturing,433.0,16.0,347.0,66.0,2514.0,146.0
+2020,IRISH,"Business, Financial & Other Services",494.0,40.0,991.0,44.0,3685.0,123.0
+2020,IRISH,"Energy, Water, Waste & Construction",1151.0,,,,,
+2020,IRISH,"Food, Drink & Primary Production",9139.0,,,,,
+2020,IRISH,Information & Communication Services,147.0,31.0,461.0,65.0,2209.0,99.0
+2020,IRISH,Modern Manufacturing,299.0,26.0,232.0,71.0,956.0,86.0
+2020,IRISH,Traditional Manufacturing,1648.0,42.0,795.0,80.0,3268.0,82.0
+2021,FOREIGN,"Business, Financial & Other Services",119.0,17.0,1300.0,39.0,12277.0,326.0
+2021,FOREIGN,"Energy, Water, Waste & Construction",0.0,,,,88.0,164.0
+2021,FOREIGN,"Food, Drink & Primary Production",952.0,,,,3238.0,432.0
+2021,FOREIGN,Information & Communication Services,231.0,3.0,4634.0,7.0,76031.0,781.0
+2021,FOREIGN,Modern Manufacturing,2225.0,13.0,2510.0,15.0,54280.0,652.0
+2021,FOREIGN,Traditional Manufacturing,474.0,16.0,379.0,69.0,2850.0,166.0
+2021,IRISH,"Business, Financial & Other Services",434.0,33.0,1120.0,38.0,3943.0,122.0
+2021,IRISH,"Energy, Water, Waste & Construction",1224.0,,,,3358.0,173.0
+2021,IRISH,"Food, Drink & Primary Production",10337.0,,,,3596.0,82.0
+2021,IRISH,Information & Communication Services,177.0,30.0,548.0,62.0,2489.0,106.0
+2021,IRISH,Modern Manufacturing,384.0,28.0,275.0,74.0,1330.0,110.0
+2021,IRISH,Traditional Manufacturing,1791.0,42.0,900.0,80.0,3888.0,93.0
+2022,FOREIGN,"Business, Financial & Other Services",58.0,9.0,1689.0,41.0,14514.0,354.0
+2022,FOREIGN,"Energy, Water, Waste & Construction",,,20.0,,-7.0,
+2022,FOREIGN,"Food, Drink & Primary Production",,,531.0,,4632.0,
+2022,FOREIGN,Information & Communication Services,307.0,3.0,5631.0,7.0,86081.0,813.0
+2022,FOREIGN,Modern Manufacturing,2282.0,12.0,2903.0,16.0,62357.0,704.0
+2022,FOREIGN,Traditional Manufacturing,598.0,16.0,441.0,66.0,3066.0,172.0
+2022,IRISH,"Business, Financial & Other Services",613.0,33.0,1332.0,39.0,5268.0,150.0
+2022,IRISH,"Energy, Water, Waste & Construction",,,2143.0,,3935.0,
+2022,IRISH,"Food, Drink & Primary Production",,,1855.0,,3994.0,
+2022,IRISH,Information & Communication Services,197.0,25.0,634.0,62.0,2910.0,116.0
+2022,IRISH,Modern Manufacturing,414.0,30.0,311.0,71.0,1724.0,135.0
+2022,IRISH,Traditional Manufacturing,2068.0,40.0,1110.0,79.0,4944.0,114.0
+2023,FOREIGN,"Business, Financial & Other Services",90.0,10.0,1754.0,41.0,19565.0,440.0
+2023,FOREIGN,"Energy, Water, Waste & Construction",0.0,,,,-11.0,
+2023,FOREIGN,"Food, Drink & Primary Production",1328.0,,,,4416.0,
+2023,FOREIGN,Information & Communication Services,340.0,3.0,5574.0,6.0,95950.0,942.0
+2023,FOREIGN,Modern Manufacturing,2488.0,13.0,3463.0,20.0,60261.0,662.0
+2023,FOREIGN,Traditional Manufacturing,558.0,16.0,350.0,54.0,3086.0,170.0
+2023,IRISH,"Business, Financial & Other Services",660.0,34.0,1414.0,39.0,5981.0,159.0
+2023,IRISH,"Energy, Water, Waste & Construction",2056.0,,2570.0,,4854.0,
+2023,IRISH,"Food, Drink & Primary Production",12651.0,,,,4188.0,
+2023,IRISH,Information & Communication Services,199.0,22.0,653.0,53.0,3276.0,124.0
+2023,IRISH,Modern Manufacturing,437.0,31.0,,70.0,1744.0,137.0
+2023,IRISH,Traditional Manufacturing,2130.0,40.0,1174.0,79.0,5234.0,117.0
+2024,FOREIGN,"Business, Financial & Other Services",120.0,13.0,1745.0,39.0,20215.0,450.0
+2024,FOREIGN,"Energy, Water, Waste & Construction",0.0,,,,,
+2024,FOREIGN,"Food, Drink & Primary Production",1378.0,,,,,
+2024,FOREIGN,Information & Communication Services,377.0,3.0,5870.0,6.0,105638.0,1054.0
+2024,FOREIGN,Modern Manufacturing,2727.0,13.0,3520.0,21.0,65183.0,710.0
+2024,FOREIGN,Traditional Manufacturing,521.0,15.0,361.0,62.0,3240.0,176.0
+2024,IRISH,"Business, Financial & Other Services",668.0,31.0,1481.0,40.0,6487.0,166.0
+2024,IRISH,"Energy, Water, Waste & Construction",2272.0,,2879.0,,,
+2024,IRISH,"Food, Drink & Primary Production",13622.0,,,,,
+2024,IRISH,Information & Communication Services,203.0,18.0,709.0,50.0,3417.0,129.0
+2024,IRISH,Modern Manufacturing,460.0,31.0,,70.0,1902.0,141.0
+2024,IRISH,Traditional Manufacturing,2119.0,40.0,1262.0,78.0,5472.0,120.0

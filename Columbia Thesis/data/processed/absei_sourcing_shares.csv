@@ -1,0 +1,601 @@
+year,ownership,sector,indicator,value
+2000,FOREIGN,"Business, Financial & Other Services",irish_materials_share,40.0
+2000,FOREIGN,"Business, Financial & Other Services",irish_services_share,
+2000,FOREIGN,"Energy, Water, Waste & Construction",irish_materials_share,33.0
+2000,FOREIGN,"Energy, Water, Waste & Construction",irish_services_share,
+2000,FOREIGN,"Food, Drink & Primary Production",irish_materials_share,66.0
+2000,FOREIGN,"Food, Drink & Primary Production",irish_services_share,
+2000,FOREIGN,Information & Communication Services,irish_materials_share,17.0
+2000,FOREIGN,Information & Communication Services,irish_services_share,
+2000,FOREIGN,Modern Manufacturing,irish_materials_share,17.0
+2000,FOREIGN,Modern Manufacturing,irish_services_share,
+2000,FOREIGN,Traditional Manufacturing,irish_materials_share,29.0
+2000,FOREIGN,Traditional Manufacturing,irish_services_share,
+2000,IRISH,"Business, Financial & Other Services",irish_materials_share,57.0
+2000,IRISH,"Business, Financial & Other Services",irish_services_share,
+2000,IRISH,"Energy, Water, Waste & Construction",irish_materials_share,91.0
+2000,IRISH,"Energy, Water, Waste & Construction",irish_services_share,
+2000,IRISH,"Food, Drink & Primary Production",irish_materials_share,82.0
+2000,IRISH,"Food, Drink & Primary Production",irish_services_share,
+2000,IRISH,Information & Communication Services,irish_materials_share,59.0
+2000,IRISH,Information & Communication Services,irish_services_share,
+2000,IRISH,Modern Manufacturing,irish_materials_share,31.0
+2000,IRISH,Modern Manufacturing,irish_services_share,
+2000,IRISH,Traditional Manufacturing,irish_materials_share,50.0
+2000,IRISH,Traditional Manufacturing,irish_services_share,
+2001,FOREIGN,"Business, Financial & Other Services",irish_materials_share,34.0
+2001,FOREIGN,"Business, Financial & Other Services",irish_services_share,
+2001,FOREIGN,"Energy, Water, Waste & Construction",irish_materials_share,36.0
+2001,FOREIGN,"Energy, Water, Waste & Construction",irish_services_share,
+2001,FOREIGN,"Food, Drink & Primary Production",irish_materials_share,66.0
+2001,FOREIGN,"Food, Drink & Primary Production",irish_services_share,
+2001,FOREIGN,Information & Communication Services,irish_materials_share,19.0
+2001,FOREIGN,Information & Communication Services,irish_services_share,
+2001,FOREIGN,Modern Manufacturing,irish_materials_share,18.0
+2001,FOREIGN,Modern Manufacturing,irish_services_share,
+2001,FOREIGN,Traditional Manufacturing,irish_materials_share,30.0
+2001,FOREIGN,Traditional Manufacturing,irish_services_share,
+2001,IRISH,"Business, Financial & Other Services",irish_materials_share,66.0
+2001,IRISH,"Business, Financial & Other Services",irish_services_share,
+2001,IRISH,"Energy, Water, Waste & Construction",irish_materials_share,89.0
+2001,IRISH,"Energy, Water, Waste & Construction",irish_services_share,
+2001,IRISH,"Food, Drink & Primary Production",irish_materials_share,88.0
+2001,IRISH,"Food, Drink & Primary Production",irish_services_share,
+2001,IRISH,Information & Communication Services,irish_materials_share,59.0
+2001,IRISH,Information & Communication Services,irish_services_share,
+2001,IRISH,Modern Manufacturing,irish_materials_share,33.0
+2001,IRISH,Modern Manufacturing,irish_services_share,
+2001,IRISH,Traditional Manufacturing,irish_materials_share,57.0
+2001,IRISH,Traditional Manufacturing,irish_services_share,
+2002,FOREIGN,"Business, Financial & Other Services",irish_materials_share,15.0
+2002,FOREIGN,"Business, Financial & Other Services",irish_services_share,
+2002,FOREIGN,"Energy, Water, Waste & Construction",irish_materials_share,43.0
+2002,FOREIGN,"Energy, Water, Waste & Construction",irish_services_share,
+2002,FOREIGN,"Food, Drink & Primary Production",irish_materials_share,69.0
+2002,FOREIGN,"Food, Drink & Primary Production",irish_services_share,
+2002,FOREIGN,Information & Communication Services,irish_materials_share,15.0
+2002,FOREIGN,Information & Communication Services,irish_services_share,
+2002,FOREIGN,Modern Manufacturing,irish_materials_share,15.0
+2002,FOREIGN,Modern Manufacturing,irish_services_share,
+2002,FOREIGN,Traditional Manufacturing,irish_materials_share,36.0
+2002,FOREIGN,Traditional Manufacturing,irish_services_share,
+2002,IRISH,"Business, Financial & Other Services",irish_materials_share,66.0
+2002,IRISH,"Business, Financial & Other Services",irish_services_share,
+2002,IRISH,"Energy, Water, Waste & Construction",irish_materials_share,90.0
+2002,IRISH,"Energy, Water, Waste & Construction",irish_services_share,
+2002,IRISH,"Food, Drink & Primary Production",irish_materials_share,85.0
+2002,IRISH,"Food, Drink & Primary Production",irish_services_share,
+2002,IRISH,Information & Communication Services,irish_materials_share,45.0
+2002,IRISH,Information & Communication Services,irish_services_share,
+2002,IRISH,Modern Manufacturing,irish_materials_share,36.0
+2002,IRISH,Modern Manufacturing,irish_services_share,
+2002,IRISH,Traditional Manufacturing,irish_materials_share,58.0
+2002,IRISH,Traditional Manufacturing,irish_services_share,
+2003,FOREIGN,"Business, Financial & Other Services",irish_materials_share,32.0
+2003,FOREIGN,"Business, Financial & Other Services",irish_services_share,
+2003,FOREIGN,"Energy, Water, Waste & Construction",irish_materials_share,65.0
+2003,FOREIGN,"Energy, Water, Waste & Construction",irish_services_share,
+2003,FOREIGN,"Food, Drink & Primary Production",irish_materials_share,63.0
+2003,FOREIGN,"Food, Drink & Primary Production",irish_services_share,
+2003,FOREIGN,Information & Communication Services,irish_materials_share,15.0
+2003,FOREIGN,Information & Communication Services,irish_services_share,
+2003,FOREIGN,Modern Manufacturing,irish_materials_share,14.0
+2003,FOREIGN,Modern Manufacturing,irish_services_share,
+2003,FOREIGN,Traditional Manufacturing,irish_materials_share,29.0
+2003,FOREIGN,Traditional Manufacturing,irish_services_share,
+2003,IRISH,"Business, Financial & Other Services",irish_materials_share,70.0
+2003,IRISH,"Business, Financial & Other Services",irish_services_share,
+2003,IRISH,"Energy, Water, Waste & Construction",irish_materials_share,87.0
+2003,IRISH,"Energy, Water, Waste & Construction",irish_services_share,
+2003,IRISH,"Food, Drink & Primary Production",irish_materials_share,84.0
+2003,IRISH,"Food, Drink & Primary Production",irish_services_share,
+2003,IRISH,Information & Communication Services,irish_materials_share,60.0
+2003,IRISH,Information & Communication Services,irish_services_share,
+2003,IRISH,Modern Manufacturing,irish_materials_share,35.0
+2003,IRISH,Modern Manufacturing,irish_services_share,
+2003,IRISH,Traditional Manufacturing,irish_materials_share,60.0
+2003,IRISH,Traditional Manufacturing,irish_services_share,
+2004,FOREIGN,"Business, Financial & Other Services",irish_materials_share,28.0
+2004,FOREIGN,"Business, Financial & Other Services",irish_services_share,
+2004,FOREIGN,"Energy, Water, Waste & Construction",irish_materials_share,36.0
+2004,FOREIGN,"Energy, Water, Waste & Construction",irish_services_share,
+2004,FOREIGN,"Food, Drink & Primary Production",irish_materials_share,57.0
+2004,FOREIGN,"Food, Drink & Primary Production",irish_services_share,
+2004,FOREIGN,Information & Communication Services,irish_materials_share,14.0
+2004,FOREIGN,Information & Communication Services,irish_services_share,
+2004,FOREIGN,Modern Manufacturing,irish_materials_share,12.0
+2004,FOREIGN,Modern Manufacturing,irish_services_share,
+2004,FOREIGN,Traditional Manufacturing,irish_materials_share,27.0
+2004,FOREIGN,Traditional Manufacturing,irish_services_share,
+2004,IRISH,"Business, Financial & Other Services",irish_materials_share,67.0
+2004,IRISH,"Business, Financial & Other Services",irish_services_share,
+2004,IRISH,"Energy, Water, Waste & Construction",irish_materials_share,84.0
+2004,IRISH,"Energy, Water, Waste & Construction",irish_services_share,
+2004,IRISH,"Food, Drink & Primary Production",irish_materials_share,84.0
+2004,IRISH,"Food, Drink & Primary Production",irish_services_share,
+2004,IRISH,Information & Communication Services,irish_materials_share,53.0
+2004,IRISH,Information & Communication Services,irish_services_share,
+2004,IRISH,Modern Manufacturing,irish_materials_share,31.0
+2004,IRISH,Modern Manufacturing,irish_services_share,
+2004,IRISH,Traditional Manufacturing,irish_materials_share,56.0
+2004,IRISH,Traditional Manufacturing,irish_services_share,
+2005,FOREIGN,"Business, Financial & Other Services",irish_materials_share,20.0
+2005,FOREIGN,"Business, Financial & Other Services",irish_services_share,
+2005,FOREIGN,"Energy, Water, Waste & Construction",irish_materials_share,32.0
+2005,FOREIGN,"Energy, Water, Waste & Construction",irish_services_share,
+2005,FOREIGN,"Food, Drink & Primary Production",irish_materials_share,54.0
+2005,FOREIGN,"Food, Drink & Primary Production",irish_services_share,
+2005,FOREIGN,Information & Communication Services,irish_materials_share,9.0
+2005,FOREIGN,Information & Communication Services,irish_services_share,
+2005,FOREIGN,Modern Manufacturing,irish_materials_share,9.0
+2005,FOREIGN,Modern Manufacturing,irish_services_share,
+2005,FOREIGN,Traditional Manufacturing,irish_materials_share,24.0
+2005,FOREIGN,Traditional Manufacturing,irish_services_share,
+2005,IRISH,"Business, Financial & Other Services",irish_materials_share,62.0
+2005,IRISH,"Business, Financial & Other Services",irish_services_share,
+2005,IRISH,"Energy, Water, Waste & Construction",irish_materials_share,84.0
+2005,IRISH,"Energy, Water, Waste & Construction",irish_services_share,
+2005,IRISH,"Food, Drink & Primary Production",irish_materials_share,85.0
+2005,IRISH,"Food, Drink & Primary Production",irish_services_share,
+2005,IRISH,Information & Communication Services,irish_materials_share,50.0
+2005,IRISH,Information & Communication Services,irish_services_share,
+2005,IRISH,Modern Manufacturing,irish_materials_share,29.0
+2005,IRISH,Modern Manufacturing,irish_services_share,
+2005,IRISH,Traditional Manufacturing,irish_materials_share,52.0
+2005,IRISH,Traditional Manufacturing,irish_services_share,
+2006,FOREIGN,"Business, Financial & Other Services",irish_materials_share,8.0
+2006,FOREIGN,"Business, Financial & Other Services",irish_services_share,
+2006,FOREIGN,"Energy, Water, Waste & Construction",irish_materials_share,24.0
+2006,FOREIGN,"Energy, Water, Waste & Construction",irish_services_share,
+2006,FOREIGN,"Food, Drink & Primary Production",irish_materials_share,58.0
+2006,FOREIGN,"Food, Drink & Primary Production",irish_services_share,
+2006,FOREIGN,Information & Communication Services,irish_materials_share,8.0
+2006,FOREIGN,Information & Communication Services,irish_services_share,
+2006,FOREIGN,Modern Manufacturing,irish_materials_share,9.0
+2006,FOREIGN,Modern Manufacturing,irish_services_share,
+2006,FOREIGN,Traditional Manufacturing,irish_materials_share,17.0
+2006,FOREIGN,Traditional Manufacturing,irish_services_share,
+2006,IRISH,"Business, Financial & Other Services",irish_materials_share,66.0
+2006,IRISH,"Business, Financial & Other Services",irish_services_share,
+2006,IRISH,"Energy, Water, Waste & Construction",irish_materials_share,82.0
+2006,IRISH,"Energy, Water, Waste & Construction",irish_services_share,
+2006,IRISH,"Food, Drink & Primary Production",irish_materials_share,84.0
+2006,IRISH,"Food, Drink & Primary Production",irish_services_share,
+2006,IRISH,Information & Communication Services,irish_materials_share,53.0
+2006,IRISH,Information & Communication Services,irish_services_share,
+2006,IRISH,Modern Manufacturing,irish_materials_share,28.0
+2006,IRISH,Modern Manufacturing,irish_services_share,
+2006,IRISH,Traditional Manufacturing,irish_materials_share,48.0
+2006,IRISH,Traditional Manufacturing,irish_services_share,
+2007,FOREIGN,"Business, Financial & Other Services",irish_materials_share,7.0
+2007,FOREIGN,"Business, Financial & Other Services",irish_services_share,
+2007,FOREIGN,"Energy, Water, Waste & Construction",irish_materials_share,35.0
+2007,FOREIGN,"Energy, Water, Waste & Construction",irish_services_share,
+2007,FOREIGN,"Food, Drink & Primary Production",irish_materials_share,51.0
+2007,FOREIGN,"Food, Drink & Primary Production",irish_services_share,
+2007,FOREIGN,Information & Communication Services,irish_materials_share,7.0
+2007,FOREIGN,Information & Communication Services,irish_services_share,
+2007,FOREIGN,Modern Manufacturing,irish_materials_share,8.0
+2007,FOREIGN,Modern Manufacturing,irish_services_share,
+2007,FOREIGN,Traditional Manufacturing,irish_materials_share,18.0
+2007,FOREIGN,Traditional Manufacturing,irish_services_share,
+2007,IRISH,"Business, Financial & Other Services",irish_materials_share,60.0
+2007,IRISH,"Business, Financial & Other Services",irish_services_share,
+2007,IRISH,"Energy, Water, Waste & Construction",irish_materials_share,79.0
+2007,IRISH,"Energy, Water, Waste & Construction",irish_services_share,
+2007,IRISH,"Food, Drink & Primary Production",irish_materials_share,83.0
+2007,IRISH,"Food, Drink & Primary Production",irish_services_share,
+2007,IRISH,Information & Communication Services,irish_materials_share,57.0
+2007,IRISH,Information & Communication Services,irish_services_share,
+2007,IRISH,Modern Manufacturing,irish_materials_share,25.0
+2007,IRISH,Modern Manufacturing,irish_services_share,
+2007,IRISH,Traditional Manufacturing,irish_materials_share,48.0
+2007,IRISH,Traditional Manufacturing,irish_services_share,
+2008,FOREIGN,"Business, Financial & Other Services",irish_materials_share,6.0
+2008,FOREIGN,"Business, Financial & Other Services",irish_services_share,
+2008,FOREIGN,"Energy, Water, Waste & Construction",irish_materials_share,39.0
+2008,FOREIGN,"Energy, Water, Waste & Construction",irish_services_share,
+2008,FOREIGN,"Food, Drink & Primary Production",irish_materials_share,52.0
+2008,FOREIGN,"Food, Drink & Primary Production",irish_services_share,
+2008,FOREIGN,Information & Communication Services,irish_materials_share,8.0
+2008,FOREIGN,Information & Communication Services,irish_services_share,
+2008,FOREIGN,Modern Manufacturing,irish_materials_share,8.0
+2008,FOREIGN,Modern Manufacturing,irish_services_share,
+2008,FOREIGN,Traditional Manufacturing,irish_materials_share,16.0
+2008,FOREIGN,Traditional Manufacturing,irish_services_share,
+2008,IRISH,"Business, Financial & Other Services",irish_materials_share,55.0
+2008,IRISH,"Business, Financial & Other Services",irish_services_share,
+2008,IRISH,"Energy, Water, Waste & Construction",irish_materials_share,80.0
+2008,IRISH,"Energy, Water, Waste & Construction",irish_services_share,
+2008,IRISH,"Food, Drink & Primary Production",irish_materials_share,82.0
+2008,IRISH,"Food, Drink & Primary Production",irish_services_share,
+2008,IRISH,Information & Communication Services,irish_materials_share,57.0
+2008,IRISH,Information & Communication Services,irish_services_share,
+2008,IRISH,Modern Manufacturing,irish_materials_share,22.0
+2008,IRISH,Modern Manufacturing,irish_services_share,
+2008,IRISH,Traditional Manufacturing,irish_materials_share,48.0
+2008,IRISH,Traditional Manufacturing,irish_services_share,
+2009,FOREIGN,"Business, Financial & Other Services",irish_materials_share,8.0
+2009,FOREIGN,"Business, Financial & Other Services",irish_services_share,
+2009,FOREIGN,"Energy, Water, Waste & Construction",irish_materials_share,4.0
+2009,FOREIGN,"Energy, Water, Waste & Construction",irish_services_share,
+2009,FOREIGN,"Food, Drink & Primary Production",irish_materials_share,54.0
+2009,FOREIGN,"Food, Drink & Primary Production",irish_services_share,
+2009,FOREIGN,Information & Communication Services,irish_materials_share,7.0
+2009,FOREIGN,Information & Communication Services,irish_services_share,
+2009,FOREIGN,Modern Manufacturing,irish_materials_share,9.0
+2009,FOREIGN,Modern Manufacturing,irish_services_share,
+2009,FOREIGN,Traditional Manufacturing,irish_materials_share,17.0
+2009,FOREIGN,Traditional Manufacturing,irish_services_share,
+2009,IRISH,"Business, Financial & Other Services",irish_materials_share,51.0
+2009,IRISH,"Business, Financial & Other Services",irish_services_share,
+2009,IRISH,"Energy, Water, Waste & Construction",irish_materials_share,79.0
+2009,IRISH,"Energy, Water, Waste & Construction",irish_services_share,
+2009,IRISH,"Food, Drink & Primary Production",irish_materials_share,82.0
+2009,IRISH,"Food, Drink & Primary Production",irish_services_share,
+2009,IRISH,Information & Communication Services,irish_materials_share,56.0
+2009,IRISH,Information & Communication Services,irish_services_share,
+2009,IRISH,Modern Manufacturing,irish_materials_share,22.0
+2009,IRISH,Modern Manufacturing,irish_services_share,
+2009,IRISH,Traditional Manufacturing,irish_materials_share,49.0
+2009,IRISH,Traditional Manufacturing,irish_services_share,
+2010,FOREIGN,"Business, Financial & Other Services",irish_materials_share,
+2010,FOREIGN,"Business, Financial & Other Services",irish_services_share,
+2010,FOREIGN,"Energy, Water, Waste & Construction",irish_materials_share,
+2010,FOREIGN,"Energy, Water, Waste & Construction",irish_services_share,
+2010,FOREIGN,"Food, Drink & Primary Production",irish_materials_share,
+2010,FOREIGN,"Food, Drink & Primary Production",irish_services_share,
+2010,FOREIGN,Information & Communication Services,irish_materials_share,6.0
+2010,FOREIGN,Information & Communication Services,irish_services_share,
+2010,FOREIGN,Modern Manufacturing,irish_materials_share,10.0
+2010,FOREIGN,Modern Manufacturing,irish_services_share,
+2010,FOREIGN,Traditional Manufacturing,irish_materials_share,15.0
+2010,FOREIGN,Traditional Manufacturing,irish_services_share,
+2010,IRISH,"Business, Financial & Other Services",irish_materials_share,45.0
+2010,IRISH,"Business, Financial & Other Services",irish_services_share,
+2010,IRISH,"Energy, Water, Waste & Construction",irish_materials_share,
+2010,IRISH,"Energy, Water, Waste & Construction",irish_services_share,
+2010,IRISH,"Food, Drink & Primary Production",irish_materials_share,
+2010,IRISH,"Food, Drink & Primary Production",irish_services_share,
+2010,IRISH,Information & Communication Services,irish_materials_share,60.0
+2010,IRISH,Information & Communication Services,irish_services_share,
+2010,IRISH,Modern Manufacturing,irish_materials_share,21.0
+2010,IRISH,Modern Manufacturing,irish_services_share,
+2010,IRISH,Traditional Manufacturing,irish_materials_share,44.0
+2010,IRISH,Traditional Manufacturing,irish_services_share,
+2011,FOREIGN,"Business, Financial & Other Services",irish_materials_share,
+2011,FOREIGN,"Business, Financial & Other Services",irish_services_share,
+2011,FOREIGN,"Energy, Water, Waste & Construction",irish_materials_share,
+2011,FOREIGN,"Energy, Water, Waste & Construction",irish_services_share,
+2011,FOREIGN,"Food, Drink & Primary Production",irish_materials_share,
+2011,FOREIGN,"Food, Drink & Primary Production",irish_services_share,
+2011,FOREIGN,Information & Communication Services,irish_materials_share,7.0
+2011,FOREIGN,Information & Communication Services,irish_services_share,
+2011,FOREIGN,Modern Manufacturing,irish_materials_share,10.0
+2011,FOREIGN,Modern Manufacturing,irish_services_share,
+2011,FOREIGN,Traditional Manufacturing,irish_materials_share,16.0
+2011,FOREIGN,Traditional Manufacturing,irish_services_share,
+2011,IRISH,"Business, Financial & Other Services",irish_materials_share,46.0
+2011,IRISH,"Business, Financial & Other Services",irish_services_share,
+2011,IRISH,"Energy, Water, Waste & Construction",irish_materials_share,
+2011,IRISH,"Energy, Water, Waste & Construction",irish_services_share,
+2011,IRISH,"Food, Drink & Primary Production",irish_materials_share,
+2011,IRISH,"Food, Drink & Primary Production",irish_services_share,
+2011,IRISH,Information & Communication Services,irish_materials_share,53.0
+2011,IRISH,Information & Communication Services,irish_services_share,
+2011,IRISH,Modern Manufacturing,irish_materials_share,25.0
+2011,IRISH,Modern Manufacturing,irish_services_share,
+2011,IRISH,Traditional Manufacturing,irish_materials_share,43.0
+2011,IRISH,Traditional Manufacturing,irish_services_share,
+2012,FOREIGN,"Business, Financial & Other Services",irish_materials_share,
+2012,FOREIGN,"Business, Financial & Other Services",irish_services_share,
+2012,FOREIGN,"Energy, Water, Waste & Construction",irish_materials_share,
+2012,FOREIGN,"Energy, Water, Waste & Construction",irish_services_share,
+2012,FOREIGN,"Food, Drink & Primary Production",irish_materials_share,
+2012,FOREIGN,"Food, Drink & Primary Production",irish_services_share,
+2012,FOREIGN,Information & Communication Services,irish_materials_share,7.0
+2012,FOREIGN,Information & Communication Services,irish_services_share,
+2012,FOREIGN,Modern Manufacturing,irish_materials_share,10.0
+2012,FOREIGN,Modern Manufacturing,irish_services_share,
+2012,FOREIGN,Traditional Manufacturing,irish_materials_share,17.0
+2012,FOREIGN,Traditional Manufacturing,irish_services_share,
+2012,IRISH,"Business, Financial & Other Services",irish_materials_share,51.0
+2012,IRISH,"Business, Financial & Other Services",irish_services_share,
+2012,IRISH,"Energy, Water, Waste & Construction",irish_materials_share,
+2012,IRISH,"Energy, Water, Waste & Construction",irish_services_share,
+2012,IRISH,"Food, Drink & Primary Production",irish_materials_share,
+2012,IRISH,"Food, Drink & Primary Production",irish_services_share,
+2012,IRISH,Information & Communication Services,irish_materials_share,49.0
+2012,IRISH,Information & Communication Services,irish_services_share,
+2012,IRISH,Modern Manufacturing,irish_materials_share,23.0
+2012,IRISH,Modern Manufacturing,irish_services_share,
+2012,IRISH,Traditional Manufacturing,irish_materials_share,42.0
+2012,IRISH,Traditional Manufacturing,irish_services_share,
+2013,FOREIGN,"Business, Financial & Other Services",irish_materials_share,
+2013,FOREIGN,"Business, Financial & Other Services",irish_services_share,
+2013,FOREIGN,"Energy, Water, Waste & Construction",irish_materials_share,
+2013,FOREIGN,"Energy, Water, Waste & Construction",irish_services_share,
+2013,FOREIGN,"Food, Drink & Primary Production",irish_materials_share,
+2013,FOREIGN,"Food, Drink & Primary Production",irish_services_share,
+2013,FOREIGN,Information & Communication Services,irish_materials_share,7.0
+2013,FOREIGN,Information & Communication Services,irish_services_share,
+2013,FOREIGN,Modern Manufacturing,irish_materials_share,11.0
+2013,FOREIGN,Modern Manufacturing,irish_services_share,
+2013,FOREIGN,Traditional Manufacturing,irish_materials_share,17.0
+2013,FOREIGN,Traditional Manufacturing,irish_services_share,
+2013,IRISH,"Business, Financial & Other Services",irish_materials_share,50.0
+2013,IRISH,"Business, Financial & Other Services",irish_services_share,
+2013,IRISH,"Energy, Water, Waste & Construction",irish_materials_share,
+2013,IRISH,"Energy, Water, Waste & Construction",irish_services_share,
+2013,IRISH,"Food, Drink & Primary Production",irish_materials_share,
+2013,IRISH,"Food, Drink & Primary Production",irish_services_share,
+2013,IRISH,Information & Communication Services,irish_materials_share,46.0
+2013,IRISH,Information & Communication Services,irish_services_share,
+2013,IRISH,Modern Manufacturing,irish_materials_share,21.0
+2013,IRISH,Modern Manufacturing,irish_services_share,
+2013,IRISH,Traditional Manufacturing,irish_materials_share,46.0
+2013,IRISH,Traditional Manufacturing,irish_services_share,
+2014,FOREIGN,"Business, Financial & Other Services",irish_materials_share,6.0
+2014,FOREIGN,"Business, Financial & Other Services",irish_services_share,40.0
+2014,FOREIGN,"Energy, Water, Waste & Construction",irish_materials_share,
+2014,FOREIGN,"Energy, Water, Waste & Construction",irish_services_share,
+2014,FOREIGN,"Food, Drink & Primary Production",irish_materials_share,
+2014,FOREIGN,"Food, Drink & Primary Production",irish_services_share,
+2014,FOREIGN,Information & Communication Services,irish_materials_share,8.0
+2014,FOREIGN,Information & Communication Services,irish_services_share,8.0
+2014,FOREIGN,Modern Manufacturing,irish_materials_share,10.0
+2014,FOREIGN,Modern Manufacturing,irish_services_share,21.0
+2014,FOREIGN,Traditional Manufacturing,irish_materials_share,13.0
+2014,FOREIGN,Traditional Manufacturing,irish_services_share,58.0
+2014,IRISH,"Business, Financial & Other Services",irish_materials_share,45.0
+2014,IRISH,"Business, Financial & Other Services",irish_services_share,46.0
+2014,IRISH,"Energy, Water, Waste & Construction",irish_materials_share,
+2014,IRISH,"Energy, Water, Waste & Construction",irish_services_share,
+2014,IRISH,"Food, Drink & Primary Production",irish_materials_share,
+2014,IRISH,"Food, Drink & Primary Production",irish_services_share,
+2014,IRISH,Information & Communication Services,irish_materials_share,42.0
+2014,IRISH,Information & Communication Services,irish_services_share,69.0
+2014,IRISH,Modern Manufacturing,irish_materials_share,25.0
+2014,IRISH,Modern Manufacturing,irish_services_share,72.0
+2014,IRISH,Traditional Manufacturing,irish_materials_share,47.0
+2014,IRISH,Traditional Manufacturing,irish_services_share,84.0
+2015,FOREIGN,"Business, Financial & Other Services",irish_materials_share,10.0
+2015,FOREIGN,"Business, Financial & Other Services",irish_services_share,34.0
+2015,FOREIGN,"Energy, Water, Waste & Construction",irish_materials_share,
+2015,FOREIGN,"Energy, Water, Waste & Construction",irish_services_share,
+2015,FOREIGN,"Food, Drink & Primary Production",irish_materials_share,
+2015,FOREIGN,"Food, Drink & Primary Production",irish_services_share,
+2015,FOREIGN,Information & Communication Services,irish_materials_share,8.0
+2015,FOREIGN,Information & Communication Services,irish_services_share,6.0
+2015,FOREIGN,Modern Manufacturing,irish_materials_share,9.0
+2015,FOREIGN,Modern Manufacturing,irish_services_share,17.0
+2015,FOREIGN,Traditional Manufacturing,irish_materials_share,11.0
+2015,FOREIGN,Traditional Manufacturing,irish_services_share,57.0
+2015,IRISH,"Business, Financial & Other Services",irish_materials_share,40.0
+2015,IRISH,"Business, Financial & Other Services",irish_services_share,44.0
+2015,IRISH,"Energy, Water, Waste & Construction",irish_materials_share,
+2015,IRISH,"Energy, Water, Waste & Construction",irish_services_share,
+2015,IRISH,"Food, Drink & Primary Production",irish_materials_share,
+2015,IRISH,"Food, Drink & Primary Production",irish_services_share,
+2015,IRISH,Information & Communication Services,irish_materials_share,38.0
+2015,IRISH,Information & Communication Services,irish_services_share,68.0
+2015,IRISH,Modern Manufacturing,irish_materials_share,23.0
+2015,IRISH,Modern Manufacturing,irish_services_share,70.0
+2015,IRISH,Traditional Manufacturing,irish_materials_share,47.0
+2015,IRISH,Traditional Manufacturing,irish_services_share,83.0
+2016,FOREIGN,"Business, Financial & Other Services",irish_materials_share,17.0
+2016,FOREIGN,"Business, Financial & Other Services",irish_services_share,33.0
+2016,FOREIGN,"Energy, Water, Waste & Construction",irish_materials_share,
+2016,FOREIGN,"Energy, Water, Waste & Construction",irish_services_share,
+2016,FOREIGN,"Food, Drink & Primary Production",irish_materials_share,
+2016,FOREIGN,"Food, Drink & Primary Production",irish_services_share,
+2016,FOREIGN,Information & Communication Services,irish_materials_share,7.0
+2016,FOREIGN,Information & Communication Services,irish_services_share,6.0
+2016,FOREIGN,Modern Manufacturing,irish_materials_share,10.0
+2016,FOREIGN,Modern Manufacturing,irish_services_share,17.0
+2016,FOREIGN,Traditional Manufacturing,irish_materials_share,13.0
+2016,FOREIGN,Traditional Manufacturing,irish_services_share,61.0
+2016,IRISH,"Business, Financial & Other Services",irish_materials_share,38.0
+2016,IRISH,"Business, Financial & Other Services",irish_services_share,43.0
+2016,IRISH,"Energy, Water, Waste & Construction",irish_materials_share,
+2016,IRISH,"Energy, Water, Waste & Construction",irish_services_share,
+2016,IRISH,"Food, Drink & Primary Production",irish_materials_share,
+2016,IRISH,"Food, Drink & Primary Production",irish_services_share,
+2016,IRISH,Information & Communication Services,irish_materials_share,34.0
+2016,IRISH,Information & Communication Services,irish_services_share,62.0
+2016,IRISH,Modern Manufacturing,irish_materials_share,20.0
+2016,IRISH,Modern Manufacturing,irish_services_share,66.0
+2016,IRISH,Traditional Manufacturing,irish_materials_share,43.0
+2016,IRISH,Traditional Manufacturing,irish_services_share,83.0
+2017,FOREIGN,"Business, Financial & Other Services",irish_materials_share,19.0
+2017,FOREIGN,"Business, Financial & Other Services",irish_services_share,30.0
+2017,FOREIGN,"Energy, Water, Waste & Construction",irish_materials_share,
+2017,FOREIGN,"Energy, Water, Waste & Construction",irish_services_share,35.0
+2017,FOREIGN,"Food, Drink & Primary Production",irish_materials_share,
+2017,FOREIGN,"Food, Drink & Primary Production",irish_services_share,34.0
+2017,FOREIGN,Information & Communication Services,irish_materials_share,6.0
+2017,FOREIGN,Information & Communication Services,irish_services_share,6.0
+2017,FOREIGN,Modern Manufacturing,irish_materials_share,10.0
+2017,FOREIGN,Modern Manufacturing,irish_services_share,15.0
+2017,FOREIGN,Traditional Manufacturing,irish_materials_share,14.0
+2017,FOREIGN,Traditional Manufacturing,irish_services_share,66.0
+2017,IRISH,"Business, Financial & Other Services",irish_materials_share,37.0
+2017,IRISH,"Business, Financial & Other Services",irish_services_share,42.0
+2017,IRISH,"Energy, Water, Waste & Construction",irish_materials_share,
+2017,IRISH,"Energy, Water, Waste & Construction",irish_services_share,66.0
+2017,IRISH,"Food, Drink & Primary Production",irish_materials_share,
+2017,IRISH,"Food, Drink & Primary Production",irish_services_share,85.0
+2017,IRISH,Information & Communication Services,irish_materials_share,29.0
+2017,IRISH,Information & Communication Services,irish_services_share,64.0
+2017,IRISH,Modern Manufacturing,irish_materials_share,22.0
+2017,IRISH,Modern Manufacturing,irish_services_share,67.0
+2017,IRISH,Traditional Manufacturing,irish_materials_share,43.0
+2017,IRISH,Traditional Manufacturing,irish_services_share,84.0
+2018,FOREIGN,"Business, Financial & Other Services",irish_materials_share,18.0
+2018,FOREIGN,"Business, Financial & Other Services",irish_services_share,29.0
+2018,FOREIGN,"Energy, Water, Waste & Construction",irish_materials_share,
+2018,FOREIGN,"Energy, Water, Waste & Construction",irish_services_share,39.0
+2018,FOREIGN,"Food, Drink & Primary Production",irish_materials_share,
+2018,FOREIGN,"Food, Drink & Primary Production",irish_services_share,34.0
+2018,FOREIGN,Information & Communication Services,irish_materials_share,4.0
+2018,FOREIGN,Information & Communication Services,irish_services_share,6.0
+2018,FOREIGN,Modern Manufacturing,irish_materials_share,10.0
+2018,FOREIGN,Modern Manufacturing,irish_services_share,13.0
+2018,FOREIGN,Traditional Manufacturing,irish_materials_share,14.0
+2018,FOREIGN,Traditional Manufacturing,irish_services_share,63.0
+2018,IRISH,"Business, Financial & Other Services",irish_materials_share,38.0
+2018,IRISH,"Business, Financial & Other Services",irish_services_share,43.0
+2018,IRISH,"Energy, Water, Waste & Construction",irish_materials_share,
+2018,IRISH,"Energy, Water, Waste & Construction",irish_services_share,66.0
+2018,IRISH,"Food, Drink & Primary Production",irish_materials_share,
+2018,IRISH,"Food, Drink & Primary Production",irish_services_share,82.0
+2018,IRISH,Information & Communication Services,irish_materials_share,28.0
+2018,IRISH,Information & Communication Services,irish_services_share,67.0
+2018,IRISH,Modern Manufacturing,irish_materials_share,20.0
+2018,IRISH,Modern Manufacturing,irish_services_share,72.0
+2018,IRISH,Traditional Manufacturing,irish_materials_share,43.0
+2018,IRISH,Traditional Manufacturing,irish_services_share,81.0
+2019,FOREIGN,"Business, Financial & Other Services",irish_materials_share,27.0
+2019,FOREIGN,"Business, Financial & Other Services",irish_services_share,34.0
+2019,FOREIGN,"Energy, Water, Waste & Construction",irish_materials_share,
+2019,FOREIGN,"Energy, Water, Waste & Construction",irish_services_share,
+2019,FOREIGN,"Food, Drink & Primary Production",irish_materials_share,
+2019,FOREIGN,"Food, Drink & Primary Production",irish_services_share,
+2019,FOREIGN,Information & Communication Services,irish_materials_share,3.0
+2019,FOREIGN,Information & Communication Services,irish_services_share,7.0
+2019,FOREIGN,Modern Manufacturing,irish_materials_share,13.0
+2019,FOREIGN,Modern Manufacturing,irish_services_share,13.0
+2019,FOREIGN,Traditional Manufacturing,irish_materials_share,15.0
+2019,FOREIGN,Traditional Manufacturing,irish_services_share,63.0
+2019,IRISH,"Business, Financial & Other Services",irish_materials_share,37.0
+2019,IRISH,"Business, Financial & Other Services",irish_services_share,35.0
+2019,IRISH,"Energy, Water, Waste & Construction",irish_materials_share,
+2019,IRISH,"Energy, Water, Waste & Construction",irish_services_share,
+2019,IRISH,"Food, Drink & Primary Production",irish_materials_share,
+2019,IRISH,"Food, Drink & Primary Production",irish_services_share,
+2019,IRISH,Information & Communication Services,irish_materials_share,28.0
+2019,IRISH,Information & Communication Services,irish_services_share,68.0
+2019,IRISH,Modern Manufacturing,irish_materials_share,24.0
+2019,IRISH,Modern Manufacturing,irish_services_share,73.0
+2019,IRISH,Traditional Manufacturing,irish_materials_share,44.0
+2019,IRISH,Traditional Manufacturing,irish_services_share,82.0
+2020,FOREIGN,"Business, Financial & Other Services",irish_materials_share,24.0
+2020,FOREIGN,"Business, Financial & Other Services",irish_services_share,37.0
+2020,FOREIGN,"Energy, Water, Waste & Construction",irish_materials_share,
+2020,FOREIGN,"Energy, Water, Waste & Construction",irish_services_share,
+2020,FOREIGN,"Food, Drink & Primary Production",irish_materials_share,
+2020,FOREIGN,"Food, Drink & Primary Production",irish_services_share,
+2020,FOREIGN,Information & Communication Services,irish_materials_share,4.0
+2020,FOREIGN,Information & Communication Services,irish_services_share,7.0
+2020,FOREIGN,Modern Manufacturing,irish_materials_share,12.0
+2020,FOREIGN,Modern Manufacturing,irish_services_share,13.0
+2020,FOREIGN,Traditional Manufacturing,irish_materials_share,16.0
+2020,FOREIGN,Traditional Manufacturing,irish_services_share,66.0
+2020,IRISH,"Business, Financial & Other Services",irish_materials_share,40.0
+2020,IRISH,"Business, Financial & Other Services",irish_services_share,44.0
+2020,IRISH,"Energy, Water, Waste & Construction",irish_materials_share,
+2020,IRISH,"Energy, Water, Waste & Construction",irish_services_share,
+2020,IRISH,"Food, Drink & Primary Production",irish_materials_share,
+2020,IRISH,"Food, Drink & Primary Production",irish_services_share,
+2020,IRISH,Information & Communication Services,irish_materials_share,31.0
+2020,IRISH,Information & Communication Services,irish_services_share,65.0
+2020,IRISH,Modern Manufacturing,irish_materials_share,26.0
+2020,IRISH,Modern Manufacturing,irish_services_share,71.0
+2020,IRISH,Traditional Manufacturing,irish_materials_share,42.0
+2020,IRISH,Traditional Manufacturing,irish_services_share,80.0
+2021,FOREIGN,"Business, Financial & Other Services",irish_materials_share,17.0
+2021,FOREIGN,"Business, Financial & Other Services",irish_services_share,39.0
+2021,FOREIGN,"Energy, Water, Waste & Construction",irish_materials_share,
+2021,FOREIGN,"Energy, Water, Waste & Construction",irish_services_share,
+2021,FOREIGN,"Food, Drink & Primary Production",irish_materials_share,
+2021,FOREIGN,"Food, Drink & Primary Production",irish_services_share,
+2021,FOREIGN,Information & Communication Services,irish_materials_share,3.0
+2021,FOREIGN,Information & Communication Services,irish_services_share,7.0
+2021,FOREIGN,Modern Manufacturing,irish_materials_share,13.0
+2021,FOREIGN,Modern Manufacturing,irish_services_share,15.0
+2021,FOREIGN,Traditional Manufacturing,irish_materials_share,16.0
+2021,FOREIGN,Traditional Manufacturing,irish_services_share,69.0
+2021,IRISH,"Business, Financial & Other Services",irish_materials_share,33.0
+2021,IRISH,"Business, Financial & Other Services",irish_services_share,38.0
+2021,IRISH,"Energy, Water, Waste & Construction",irish_materials_share,
+2021,IRISH,"Energy, Water, Waste & Construction",irish_services_share,
+2021,IRISH,"Food, Drink & Primary Production",irish_materials_share,
+2021,IRISH,"Food, Drink & Primary Production",irish_services_share,
+2021,IRISH,Information & Communication Services,irish_materials_share,30.0
+2021,IRISH,Information & Communication Services,irish_services_share,62.0
+2021,IRISH,Modern Manufacturing,irish_materials_share,28.0
+2021,IRISH,Modern Manufacturing,irish_services_share,74.0
+2021,IRISH,Traditional Manufacturing,irish_materials_share,42.0
+2021,IRISH,Traditional Manufacturing,irish_services_share,80.0
+2022,FOREIGN,"Business, Financial & Other Services",irish_materials_share,9.0
+2022,FOREIGN,"Business, Financial & Other Services",irish_services_share,41.0
+2022,FOREIGN,"Energy, Water, Waste & Construction",irish_materials_share,
+2022,FOREIGN,"Energy, Water, Waste & Construction",irish_services_share,
+2022,FOREIGN,"Food, Drink & Primary Production",irish_materials_share,
+2022,FOREIGN,"Food, Drink & Primary Production",irish_services_share,
+2022,FOREIGN,Information & Communication Services,irish_materials_share,3.0
+2022,FOREIGN,Information & Communication Services,irish_services_share,7.0
+2022,FOREIGN,Modern Manufacturing,irish_materials_share,12.0
+2022,FOREIGN,Modern Manufacturing,irish_services_share,16.0
+2022,FOREIGN,Traditional Manufacturing,irish_materials_share,16.0
+2022,FOREIGN,Traditional Manufacturing,irish_services_share,66.0
+2022,IRISH,"Business, Financial & Other Services",irish_materials_share,33.0
+2022,IRISH,"Business, Financial & Other Services",irish_services_share,39.0
+2022,IRISH,"Energy, Water, Waste & Construction",irish_materials_share,
+2022,IRISH,"Energy, Water, Waste & Construction",irish_services_share,
+2022,IRISH,"Food, Drink & Primary Production",irish_materials_share,
+2022,IRISH,"Food, Drink & Primary Production",irish_services_share,
+2022,IRISH,Information & Communication Services,irish_materials_share,25.0
+2022,IRISH,Information & Communication Services,irish_services_share,62.0
+2022,IRISH,Modern Manufacturing,irish_materials_share,30.0
+2022,IRISH,Modern Manufacturing,irish_services_share,71.0
+2022,IRISH,Traditional Manufacturing,irish_materials_share,40.0
+2022,IRISH,Traditional Manufacturing,irish_services_share,79.0
+2023,FOREIGN,"Business, Financial & Other Services",irish_materials_share,10.0
+2023,FOREIGN,"Business, Financial & Other Services",irish_services_share,41.0
+2023,FOREIGN,"Energy, Water, Waste & Construction",irish_materials_share,
+2023,FOREIGN,"Energy, Water, Waste & Construction",irish_services_share,
+2023,FOREIGN,"Food, Drink & Primary Production",irish_materials_share,
+2023,FOREIGN,"Food, Drink & Primary Production",irish_services_share,
+2023,FOREIGN,Information & Communication Services,irish_materials_share,3.0
+2023,FOREIGN,Information & Communication Services,irish_services_share,6.0
+2023,FOREIGN,Modern Manufacturing,irish_materials_share,13.0
+2023,FOREIGN,Modern Manufacturing,irish_services_share,20.0
+2023,FOREIGN,Traditional Manufacturing,irish_materials_share,16.0
+2023,FOREIGN,Traditional Manufacturing,irish_services_share,54.0
+2023,IRISH,"Business, Financial & Other Services",irish_materials_share,34.0
+2023,IRISH,"Business, Financial & Other Services",irish_services_share,39.0
+2023,IRISH,"Energy, Water, Waste & Construction",irish_materials_share,
+2023,IRISH,"Energy, Water, Waste & Construction",irish_services_share,
+2023,IRISH,"Food, Drink & Primary Production",irish_materials_share,
+2023,IRISH,"Food, Drink & Primary Production",irish_services_share,
+2023,IRISH,Information & Communication Services,irish_materials_share,22.0
+2023,IRISH,Information & Communication Services,irish_services_share,53.0
+2023,IRISH,Modern Manufacturing,irish_materials_share,31.0
+2023,IRISH,Modern Manufacturing,irish_services_share,70.0
+2023,IRISH,Traditional Manufacturing,irish_materials_share,40.0
+2023,IRISH,Traditional Manufacturing,irish_services_share,79.0
+2024,FOREIGN,"Business, Financial & Other Services",irish_materials_share,13.0
+2024,FOREIGN,"Business, Financial & Other Services",irish_services_share,39.0
+2024,FOREIGN,"Energy, Water, Waste & Construction",irish_materials_share,
+2024,FOREIGN,"Energy, Water, Waste & Construction",irish_services_share,
+2024,FOREIGN,"Food, Drink & Primary Production",irish_materials_share,
+2024,FOREIGN,"Food, Drink & Primary Production",irish_services_share,
+2024,FOREIGN,Information & Communication Services,irish_materials_share,3.0
+2024,FOREIGN,Information & Communication Services,irish_services_share,6.0
+2024,FOREIGN,Modern Manufacturing,irish_materials_share,13.0
+2024,FOREIGN,Modern Manufacturing,irish_services_share,21.0
+2024,FOREIGN,Traditional Manufacturing,irish_materials_share,15.0
+2024,FOREIGN,Traditional Manufacturing,irish_services_share,62.0
+2024,IRISH,"Business, Financial & Other Services",irish_materials_share,31.0
+2024,IRISH,"Business, Financial & Other Services",irish_services_share,40.0
+2024,IRISH,"Energy, Water, Waste & Construction",irish_materials_share,
+2024,IRISH,"Energy, Water, Waste & Construction",irish_services_share,
+2024,IRISH,"Food, Drink & Primary Production",irish_materials_share,
+2024,IRISH,"Food, Drink & Primary Production",irish_services_share,
+2024,IRISH,Information & Communication Services,irish_materials_share,18.0
+2024,IRISH,Information & Communication Services,irish_services_share,50.0
+2024,IRISH,Modern Manufacturing,irish_materials_share,31.0
+2024,IRISH,Modern Manufacturing,irish_services_share,70.0
+2024,IRISH,Traditional Manufacturing,irish_materials_share,40.0
+2024,IRISH,Traditional Manufacturing,irish_services_share,78.0

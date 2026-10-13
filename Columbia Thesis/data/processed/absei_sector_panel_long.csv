@@ -1,0 +1,1201 @@
+year,ownership,sector,indicator,value
+2000,FOREIGN,"Business, Financial & Other Services",irish_materials,84.0
+2000,FOREIGN,"Business, Financial & Other Services",irish_services,136.0
+2000,FOREIGN,"Business, Financial & Other Services",value_added,1404.0
+2000,FOREIGN,"Business, Financial & Other Services",value_added_per_employee,178.0
+2000,FOREIGN,"Energy, Water, Waste & Construction",irish_materials,13.0
+2000,FOREIGN,"Energy, Water, Waste & Construction",irish_services,6.0
+2000,FOREIGN,"Energy, Water, Waste & Construction",value_added,24.0
+2000,FOREIGN,"Energy, Water, Waste & Construction",value_added_per_employee,30.0
+2000,FOREIGN,"Food, Drink & Primary Production",irish_materials,754.0
+2000,FOREIGN,"Food, Drink & Primary Production",irish_services,536.0
+2000,FOREIGN,"Food, Drink & Primary Production",value_added,1954.0
+2000,FOREIGN,"Food, Drink & Primary Production",value_added_per_employee,167.0
+2000,FOREIGN,Information & Communication Services,irish_materials,1158.0
+2000,FOREIGN,Information & Communication Services,irish_services,1486.0
+2000,FOREIGN,Information & Communication Services,value_added,8508.0
+2000,FOREIGN,Information & Communication Services,value_added_per_employee,211.0
+2000,FOREIGN,Modern Manufacturing,irish_materials,2512.0
+2000,FOREIGN,Modern Manufacturing,irish_services,2289.0
+2000,FOREIGN,Modern Manufacturing,value_added,20220.0
+2000,FOREIGN,Modern Manufacturing,value_added_per_employee,266.0
+2000,FOREIGN,Traditional Manufacturing,irish_materials,825.0
+2000,FOREIGN,Traditional Manufacturing,irish_services,604.0
+2000,FOREIGN,Traditional Manufacturing,value_added,2128.0
+2000,FOREIGN,Traditional Manufacturing,value_added_per_employee,60.0
+2000,IRISH,"Business, Financial & Other Services",irish_materials,338.0
+2000,IRISH,"Business, Financial & Other Services",irish_services,217.0
+2000,IRISH,"Business, Financial & Other Services",value_added,1068.0
+2000,IRISH,"Business, Financial & Other Services",value_added_per_employee,83.0
+2000,IRISH,"Energy, Water, Waste & Construction",irish_materials,834.0
+2000,IRISH,"Energy, Water, Waste & Construction",irish_services,867.0
+2000,IRISH,"Energy, Water, Waste & Construction",value_added,699.0
+2000,IRISH,"Energy, Water, Waste & Construction",value_added_per_employee,118.0
+2000,IRISH,"Food, Drink & Primary Production",irish_materials,5488.0
+2000,IRISH,"Food, Drink & Primary Production",irish_services,1036.0
+2000,IRISH,"Food, Drink & Primary Production",value_added,1437.0
+2000,IRISH,"Food, Drink & Primary Production",value_added_per_employee,35.0
+2000,IRISH,Information & Communication Services,irish_materials,125.0
+2000,IRISH,Information & Communication Services,irish_services,266.0
+2000,IRISH,Information & Communication Services,value_added,673.0
+2000,IRISH,Information & Communication Services,value_added_per_employee,54.0
+2000,IRISH,Modern Manufacturing,irish_materials,193.0
+2000,IRISH,Modern Manufacturing,irish_services,134.0
+2000,IRISH,Modern Manufacturing,value_added,402.0
+2000,IRISH,Modern Manufacturing,value_added_per_employee,36.0
+2000,IRISH,Traditional Manufacturing,irish_materials,1394.0
+2000,IRISH,Traditional Manufacturing,irish_services,824.0
+2000,IRISH,Traditional Manufacturing,value_added,2109.0
+2000,IRISH,Traditional Manufacturing,value_added_per_employee,38.0
+2001,FOREIGN,"Business, Financial & Other Services",irish_materials,70.0
+2001,FOREIGN,"Business, Financial & Other Services",irish_services,123.0
+2001,FOREIGN,"Business, Financial & Other Services",value_added,1261.0
+2001,FOREIGN,"Business, Financial & Other Services",value_added_per_employee,172.0
+2001,FOREIGN,"Energy, Water, Waste & Construction",irish_materials,17.0
+2001,FOREIGN,"Energy, Water, Waste & Construction",irish_services,2.0
+2001,FOREIGN,"Energy, Water, Waste & Construction",value_added,33.0
+2001,FOREIGN,"Energy, Water, Waste & Construction",value_added_per_employee,41.0
+2001,FOREIGN,"Food, Drink & Primary Production",irish_materials,784.0
+2001,FOREIGN,"Food, Drink & Primary Production",irish_services,619.0
+2001,FOREIGN,"Food, Drink & Primary Production",value_added,2102.0
+2001,FOREIGN,"Food, Drink & Primary Production",value_added_per_employee,195.0
+2001,FOREIGN,Information & Communication Services,irish_materials,1169.0
+2001,FOREIGN,Information & Communication Services,irish_services,1416.0
+2001,FOREIGN,Information & Communication Services,value_added,9480.0
+2001,FOREIGN,Information & Communication Services,value_added_per_employee,233.0
+2001,FOREIGN,Modern Manufacturing,irish_materials,2758.0
+2001,FOREIGN,Modern Manufacturing,irish_services,1877.0
+2001,FOREIGN,Modern Manufacturing,value_added,22411.0
+2001,FOREIGN,Modern Manufacturing,value_added_per_employee,311.0
+2001,FOREIGN,Traditional Manufacturing,irish_materials,809.0
+2001,FOREIGN,Traditional Manufacturing,irish_services,650.0
+2001,FOREIGN,Traditional Manufacturing,value_added,2206.0
+2001,FOREIGN,Traditional Manufacturing,value_added_per_employee,70.0
+2001,IRISH,"Business, Financial & Other Services",irish_materials,377.0
+2001,IRISH,"Business, Financial & Other Services",irish_services,210.0
+2001,IRISH,"Business, Financial & Other Services",value_added,1149.0
+2001,IRISH,"Business, Financial & Other Services",value_added_per_employee,95.0
+2001,IRISH,"Energy, Water, Waste & Construction",irish_materials,863.0
+2001,IRISH,"Energy, Water, Waste & Construction",irish_services,871.0
+2001,IRISH,"Energy, Water, Waste & Construction",value_added,703.0
+2001,IRISH,"Energy, Water, Waste & Construction",value_added_per_employee,111.0
+2001,IRISH,"Food, Drink & Primary Production",irish_materials,5887.0
+2001,IRISH,"Food, Drink & Primary Production",irish_services,1118.0
+2001,IRISH,"Food, Drink & Primary Production",value_added,1717.0
+2001,IRISH,"Food, Drink & Primary Production",value_added_per_employee,42.0
+2001,IRISH,Information & Communication Services,irish_materials,125.0
+2001,IRISH,Information & Communication Services,irish_services,272.0
+2001,IRISH,Information & Communication Services,value_added,948.0
+2001,IRISH,Information & Communication Services,value_added_per_employee,70.0
+2001,IRISH,Modern Manufacturing,irish_materials,208.0
+2001,IRISH,Modern Manufacturing,irish_services,155.0
+2001,IRISH,Modern Manufacturing,value_added,443.0
+2001,IRISH,Modern Manufacturing,value_added_per_employee,42.0
+2001,IRISH,Traditional Manufacturing,irish_materials,1601.0
+2001,IRISH,Traditional Manufacturing,irish_services,862.0
+2001,IRISH,Traditional Manufacturing,value_added,2075.0
+2001,IRISH,Traditional Manufacturing,value_added_per_employee,40.0
+2002,FOREIGN,"Business, Financial & Other Services",irish_materials,25.0
+2002,FOREIGN,"Business, Financial & Other Services",irish_services,89.0
+2002,FOREIGN,"Business, Financial & Other Services",value_added,1427.0
+2002,FOREIGN,"Business, Financial & Other Services",value_added_per_employee,196.0
+2002,FOREIGN,"Energy, Water, Waste & Construction",irish_materials,14.0
+2002,FOREIGN,"Energy, Water, Waste & Construction",irish_services,0.0
+2002,FOREIGN,"Energy, Water, Waste & Construction",value_added,32.0
+2002,FOREIGN,"Energy, Water, Waste & Construction",value_added_per_employee,42.0
+2002,FOREIGN,"Food, Drink & Primary Production",irish_materials,763.0
+2002,FOREIGN,"Food, Drink & Primary Production",irish_services,577.0
+2002,FOREIGN,"Food, Drink & Primary Production",value_added,2050.0
+2002,FOREIGN,"Food, Drink & Primary Production",value_added_per_employee,188.0
+2002,FOREIGN,Information & Communication Services,irish_materials,885.0
+2002,FOREIGN,Information & Communication Services,irish_services,1226.0
+2002,FOREIGN,Information & Communication Services,value_added,9121.0
+2002,FOREIGN,Information & Communication Services,value_added_per_employee,244.0
+2002,FOREIGN,Modern Manufacturing,irish_materials,2397.0
+2002,FOREIGN,Modern Manufacturing,irish_services,2092.0
+2002,FOREIGN,Modern Manufacturing,value_added,24558.0
+2002,FOREIGN,Modern Manufacturing,value_added_per_employee,360.0
+2002,FOREIGN,Traditional Manufacturing,irish_materials,869.0
+2002,FOREIGN,Traditional Manufacturing,irish_services,558.0
+2002,FOREIGN,Traditional Manufacturing,value_added,2319.0
+2002,FOREIGN,Traditional Manufacturing,value_added_per_employee,78.0
+2002,IRISH,"Business, Financial & Other Services",irish_materials,336.0
+2002,IRISH,"Business, Financial & Other Services",irish_services,278.0
+2002,IRISH,"Business, Financial & Other Services",value_added,1270.0
+2002,IRISH,"Business, Financial & Other Services",value_added_per_employee,113.0
+2002,IRISH,"Energy, Water, Waste & Construction",irish_materials,900.0
+2002,IRISH,"Energy, Water, Waste & Construction",irish_services,904.0
+2002,IRISH,"Energy, Water, Waste & Construction",value_added,1019.0
+2002,IRISH,"Energy, Water, Waste & Construction",value_added_per_employee,114.0
+2002,IRISH,"Food, Drink & Primary Production",irish_materials,5598.0
+2002,IRISH,"Food, Drink & Primary Production",irish_services,1126.0
+2002,IRISH,"Food, Drink & Primary Production",value_added,2050.0
+2002,IRISH,"Food, Drink & Primary Production",value_added_per_employee,52.0
+2002,IRISH,Information & Communication Services,irish_materials,74.0
+2002,IRISH,Information & Communication Services,irish_services,221.0
+2002,IRISH,Information & Communication Services,value_added,682.0
+2002,IRISH,Information & Communication Services,value_added_per_employee,59.0
+2002,IRISH,Modern Manufacturing,irish_materials,205.0
+2002,IRISH,Modern Manufacturing,irish_services,159.0
+2002,IRISH,Modern Manufacturing,value_added,397.0
+2002,IRISH,Modern Manufacturing,value_added_per_employee,40.0
+2002,IRISH,Traditional Manufacturing,irish_materials,1573.0
+2002,IRISH,Traditional Manufacturing,irish_services,727.0
+2002,IRISH,Traditional Manufacturing,value_added,2268.0
+2002,IRISH,Traditional Manufacturing,value_added_per_employee,46.0
+2003,FOREIGN,"Business, Financial & Other Services",irish_materials,64.0
+2003,FOREIGN,"Business, Financial & Other Services",irish_services,93.0
+2003,FOREIGN,"Business, Financial & Other Services",value_added,2022.0
+2003,FOREIGN,"Business, Financial & Other Services",value_added_per_employee,244.0
+2003,FOREIGN,"Energy, Water, Waste & Construction",irish_materials,20.0
+2003,FOREIGN,"Energy, Water, Waste & Construction",irish_services,3.0
+2003,FOREIGN,"Energy, Water, Waste & Construction",value_added,39.0
+2003,FOREIGN,"Energy, Water, Waste & Construction",value_added_per_employee,55.0
+2003,FOREIGN,"Food, Drink & Primary Production",irish_materials,640.0
+2003,FOREIGN,"Food, Drink & Primary Production",irish_services,571.0
+2003,FOREIGN,"Food, Drink & Primary Production",value_added,3550.0
+2003,FOREIGN,"Food, Drink & Primary Production",value_added_per_employee,367.0
+2003,FOREIGN,Information & Communication Services,irish_materials,914.0
+2003,FOREIGN,Information & Communication Services,irish_services,1219.0
+2003,FOREIGN,Information & Communication Services,value_added,9925.0
+2003,FOREIGN,Information & Communication Services,value_added_per_employee,262.0
+2003,FOREIGN,Modern Manufacturing,irish_materials,2297.0
+2003,FOREIGN,Modern Manufacturing,irish_services,2268.0
+2003,FOREIGN,Modern Manufacturing,value_added,19052.0
+2003,FOREIGN,Modern Manufacturing,value_added_per_employee,285.0
+2003,FOREIGN,Traditional Manufacturing,irish_materials,635.0
+2003,FOREIGN,Traditional Manufacturing,irish_services,534.0
+2003,FOREIGN,Traditional Manufacturing,value_added,2418.0
+2003,FOREIGN,Traditional Manufacturing,value_added_per_employee,88.0
+2003,IRISH,"Business, Financial & Other Services",irish_materials,337.0
+2003,IRISH,"Business, Financial & Other Services",irish_services,270.0
+2003,IRISH,"Business, Financial & Other Services",value_added,1490.0
+2003,IRISH,"Business, Financial & Other Services",value_added_per_employee,149.0
+2003,IRISH,"Energy, Water, Waste & Construction",irish_materials,758.0
+2003,IRISH,"Energy, Water, Waste & Construction",irish_services,879.0
+2003,IRISH,"Energy, Water, Waste & Construction",value_added,1068.0
+2003,IRISH,"Energy, Water, Waste & Construction",value_added_per_employee,122.0
+2003,IRISH,"Food, Drink & Primary Production",irish_materials,5243.0
+2003,IRISH,"Food, Drink & Primary Production",irish_services,1141.0
+2003,IRISH,"Food, Drink & Primary Production",value_added,1655.0
+2003,IRISH,"Food, Drink & Primary Production",value_added_per_employee,46.0
+2003,IRISH,Information & Communication Services,irish_materials,109.0
+2003,IRISH,Information & Communication Services,irish_services,182.0
+2003,IRISH,Information & Communication Services,value_added,627.0
+2003,IRISH,Information & Communication Services,value_added_per_employee,62.0
+2003,IRISH,Modern Manufacturing,irish_materials,186.0
+2003,IRISH,Modern Manufacturing,irish_services,135.0
+2003,IRISH,Modern Manufacturing,value_added,415.0
+2003,IRISH,Modern Manufacturing,value_added_per_employee,44.0
+2003,IRISH,Traditional Manufacturing,irish_materials,1623.0
+2003,IRISH,Traditional Manufacturing,irish_services,691.0
+2003,IRISH,Traditional Manufacturing,value_added,2189.0
+2003,IRISH,Traditional Manufacturing,value_added_per_employee,49.0
+2004,FOREIGN,"Business, Financial & Other Services",irish_materials,62.0
+2004,FOREIGN,"Business, Financial & Other Services",irish_services,104.0
+2004,FOREIGN,"Business, Financial & Other Services",value_added,2272.0
+2004,FOREIGN,"Business, Financial & Other Services",value_added_per_employee,232.0
+2004,FOREIGN,"Energy, Water, Waste & Construction",irish_materials,8.0
+2004,FOREIGN,"Energy, Water, Waste & Construction",irish_services,4.0
+2004,FOREIGN,"Energy, Water, Waste & Construction",value_added,57.0
+2004,FOREIGN,"Energy, Water, Waste & Construction",value_added_per_employee,102.0
+2004,FOREIGN,"Food, Drink & Primary Production",irish_materials,594.0
+2004,FOREIGN,"Food, Drink & Primary Production",irish_services,597.0
+2004,FOREIGN,"Food, Drink & Primary Production",value_added,2433.0
+2004,FOREIGN,"Food, Drink & Primary Production",value_added_per_employee,274.0
+2004,FOREIGN,Information & Communication Services,irish_materials,818.0
+2004,FOREIGN,Information & Communication Services,irish_services,1227.0
+2004,FOREIGN,Information & Communication Services,value_added,9477.0
+2004,FOREIGN,Information & Communication Services,value_added_per_employee,252.0
+2004,FOREIGN,Modern Manufacturing,irish_materials,1962.0
+2004,FOREIGN,Modern Manufacturing,irish_services,2153.0
+2004,FOREIGN,Modern Manufacturing,value_added,22641.0
+2004,FOREIGN,Modern Manufacturing,value_added_per_employee,333.0
+2004,FOREIGN,Traditional Manufacturing,irish_materials,536.0
+2004,FOREIGN,Traditional Manufacturing,irish_services,478.0
+2004,FOREIGN,Traditional Manufacturing,value_added,2345.0
+2004,FOREIGN,Traditional Manufacturing,value_added_per_employee,96.0
+2004,IRISH,"Business, Financial & Other Services",irish_materials,292.0
+2004,IRISH,"Business, Financial & Other Services",irish_services,262.0
+2004,IRISH,"Business, Financial & Other Services",value_added,1935.0
+2004,IRISH,"Business, Financial & Other Services",value_added_per_employee,170.0
+2004,IRISH,"Energy, Water, Waste & Construction",irish_materials,884.0
+2004,IRISH,"Energy, Water, Waste & Construction",irish_services,1097.0
+2004,IRISH,"Energy, Water, Waste & Construction",value_added,1127.0
+2004,IRISH,"Energy, Water, Waste & Construction",value_added_per_employee,124.0
+2004,IRISH,"Food, Drink & Primary Production",irish_materials,5422.0
+2004,IRISH,"Food, Drink & Primary Production",irish_services,1123.0
+2004,IRISH,"Food, Drink & Primary Production",value_added,1586.0
+2004,IRISH,"Food, Drink & Primary Production",value_added_per_employee,45.0
+2004,IRISH,Information & Communication Services,irish_materials,112.0
+2004,IRISH,Information & Communication Services,irish_services,190.0
+2004,IRISH,Information & Communication Services,value_added,677.0
+2004,IRISH,Information & Communication Services,value_added_per_employee,69.0
+2004,IRISH,Modern Manufacturing,irish_materials,163.0
+2004,IRISH,Modern Manufacturing,irish_services,152.0
+2004,IRISH,Modern Manufacturing,value_added,390.0
+2004,IRISH,Modern Manufacturing,value_added_per_employee,44.0
+2004,IRISH,Traditional Manufacturing,irish_materials,1641.0
+2004,IRISH,Traditional Manufacturing,irish_services,716.0
+2004,IRISH,Traditional Manufacturing,value_added,2324.0
+2004,IRISH,Traditional Manufacturing,value_added_per_employee,55.0
+2005,FOREIGN,"Business, Financial & Other Services",irish_materials,71.0
+2005,FOREIGN,"Business, Financial & Other Services",irish_services,123.0
+2005,FOREIGN,"Business, Financial & Other Services",value_added,2435.0
+2005,FOREIGN,"Business, Financial & Other Services",value_added_per_employee,223.0
+2005,FOREIGN,"Energy, Water, Waste & Construction",irish_materials,8.0
+2005,FOREIGN,"Energy, Water, Waste & Construction",irish_services,9.0
+2005,FOREIGN,"Energy, Water, Waste & Construction",value_added,59.0
+2005,FOREIGN,"Energy, Water, Waste & Construction",value_added_per_employee,87.0
+2005,FOREIGN,"Food, Drink & Primary Production",irish_materials,603.0
+2005,FOREIGN,"Food, Drink & Primary Production",irish_services,651.0
+2005,FOREIGN,"Food, Drink & Primary Production",value_added,2490.0
+2005,FOREIGN,"Food, Drink & Primary Production",value_added_per_employee,267.0
+2005,FOREIGN,Information & Communication Services,irish_materials,558.0
+2005,FOREIGN,Information & Communication Services,irish_services,1185.0
+2005,FOREIGN,Information & Communication Services,value_added,11200.0
+2005,FOREIGN,Information & Communication Services,value_added_per_employee,282.0
+2005,FOREIGN,Modern Manufacturing,irish_materials,1569.0
+2005,FOREIGN,Modern Manufacturing,irish_services,2017.0
+2005,FOREIGN,Modern Manufacturing,value_added,24425.0
+2005,FOREIGN,Modern Manufacturing,value_added_per_employee,352.0
+2005,FOREIGN,Traditional Manufacturing,irish_materials,500.0
+2005,FOREIGN,Traditional Manufacturing,irish_services,484.0
+2005,FOREIGN,Traditional Manufacturing,value_added,2170.0
+2005,FOREIGN,Traditional Manufacturing,value_added_per_employee,92.0
+2005,IRISH,"Business, Financial & Other Services",irish_materials,265.0
+2005,IRISH,"Business, Financial & Other Services",irish_services,310.0
+2005,IRISH,"Business, Financial & Other Services",value_added,2269.0
+2005,IRISH,"Business, Financial & Other Services",value_added_per_employee,174.0
+2005,IRISH,"Energy, Water, Waste & Construction",irish_materials,999.0
+2005,IRISH,"Energy, Water, Waste & Construction",irish_services,1259.0
+2005,IRISH,"Energy, Water, Waste & Construction",value_added,1284.0
+2005,IRISH,"Energy, Water, Waste & Construction",value_added_per_employee,137.0
+2005,IRISH,"Food, Drink & Primary Production",irish_materials,5597.0
+2005,IRISH,"Food, Drink & Primary Production",irish_services,1165.0
+2005,IRISH,"Food, Drink & Primary Production",value_added,1690.0
+2005,IRISH,"Food, Drink & Primary Production",value_added_per_employee,46.0
+2005,IRISH,Information & Communication Services,irish_materials,109.0
+2005,IRISH,Information & Communication Services,irish_services,207.0
+2005,IRISH,Information & Communication Services,value_added,792.0
+2005,IRISH,Information & Communication Services,value_added_per_employee,79.0
+2005,IRISH,Modern Manufacturing,irish_materials,154.0
+2005,IRISH,Modern Manufacturing,irish_services,147.0
+2005,IRISH,Modern Manufacturing,value_added,391.0
+2005,IRISH,Modern Manufacturing,value_added_per_employee,46.0
+2005,IRISH,Traditional Manufacturing,irish_materials,1522.0
+2005,IRISH,Traditional Manufacturing,irish_services,719.0
+2005,IRISH,Traditional Manufacturing,value_added,2503.0
+2005,IRISH,Traditional Manufacturing,value_added_per_employee,60.0
+2006,FOREIGN,"Business, Financial & Other Services",irish_materials,27.0
+2006,FOREIGN,"Business, Financial & Other Services",irish_services,167.0
+2006,FOREIGN,"Business, Financial & Other Services",value_added,2795.0
+2006,FOREIGN,"Business, Financial & Other Services",value_added_per_employee,233.0
+2006,FOREIGN,"Energy, Water, Waste & Construction",irish_materials,12.0
+2006,FOREIGN,"Energy, Water, Waste & Construction",irish_services,8.0
+2006,FOREIGN,"Energy, Water, Waste & Construction",value_added,58.0
+2006,FOREIGN,"Energy, Water, Waste & Construction",value_added_per_employee,91.0
+2006,FOREIGN,"Food, Drink & Primary Production",irish_materials,764.0
+2006,FOREIGN,"Food, Drink & Primary Production",irish_services,672.0
+2006,FOREIGN,"Food, Drink & Primary Production",value_added,2898.0
+2006,FOREIGN,"Food, Drink & Primary Production",value_added_per_employee,283.0
+2006,FOREIGN,Information & Communication Services,irish_materials,506.0
+2006,FOREIGN,Information & Communication Services,irish_services,1309.0
+2006,FOREIGN,Information & Communication Services,value_added,11884.0
+2006,FOREIGN,Information & Communication Services,value_added_per_employee,305.0
+2006,FOREIGN,Modern Manufacturing,irish_materials,1604.0
+2006,FOREIGN,Modern Manufacturing,irish_services,2238.0
+2006,FOREIGN,Modern Manufacturing,value_added,20782.0
+2006,FOREIGN,Modern Manufacturing,value_added_per_employee,307.0
+2006,FOREIGN,Traditional Manufacturing,irish_materials,392.0
+2006,FOREIGN,Traditional Manufacturing,irish_services,440.0
+2006,FOREIGN,Traditional Manufacturing,value_added,2270.0
+2006,FOREIGN,Traditional Manufacturing,value_added_per_employee,99.0
+2006,IRISH,"Business, Financial & Other Services",irish_materials,335.0
+2006,IRISH,"Business, Financial & Other Services",irish_services,314.0
+2006,IRISH,"Business, Financial & Other Services",value_added,2524.0
+2006,IRISH,"Business, Financial & Other Services",value_added_per_employee,168.0
+2006,IRISH,"Energy, Water, Waste & Construction",irish_materials,1147.0
+2006,IRISH,"Energy, Water, Waste & Construction",irish_services,1577.0
+2006,IRISH,"Energy, Water, Waste & Construction",value_added,1584.0
+2006,IRISH,"Energy, Water, Waste & Construction",value_added_per_employee,150.0
+2006,IRISH,"Food, Drink & Primary Production",irish_materials,5632.0
+2006,IRISH,"Food, Drink & Primary Production",irish_services,1148.0
+2006,IRISH,"Food, Drink & Primary Production",value_added,1743.0
+2006,IRISH,"Food, Drink & Primary Production",value_added_per_employee,50.0
+2006,IRISH,Information & Communication Services,irish_materials,117.0
+2006,IRISH,Information & Communication Services,irish_services,216.0
+2006,IRISH,Information & Communication Services,value_added,842.0
+2006,IRISH,Information & Communication Services,value_added_per_employee,80.0
+2006,IRISH,Modern Manufacturing,irish_materials,170.0
+2006,IRISH,Modern Manufacturing,irish_services,159.0
+2006,IRISH,Modern Manufacturing,value_added,463.0
+2006,IRISH,Modern Manufacturing,value_added_per_employee,52.0
+2006,IRISH,Traditional Manufacturing,irish_materials,1586.0
+2006,IRISH,Traditional Manufacturing,irish_services,742.0
+2006,IRISH,Traditional Manufacturing,value_added,2870.0
+2006,IRISH,Traditional Manufacturing,value_added_per_employee,63.0
+2007,FOREIGN,"Business, Financial & Other Services",irish_materials,26.0
+2007,FOREIGN,"Business, Financial & Other Services",irish_services,189.0
+2007,FOREIGN,"Business, Financial & Other Services",value_added,3389.0
+2007,FOREIGN,"Business, Financial & Other Services",value_added_per_employee,263.0
+2007,FOREIGN,"Energy, Water, Waste & Construction",irish_materials,18.0
+2007,FOREIGN,"Energy, Water, Waste & Construction",irish_services,5.0
+2007,FOREIGN,"Energy, Water, Waste & Construction",value_added,107.0
+2007,FOREIGN,"Energy, Water, Waste & Construction",value_added_per_employee,200.0
+2007,FOREIGN,"Food, Drink & Primary Production",irish_materials,751.0
+2007,FOREIGN,"Food, Drink & Primary Production",irish_services,697.0
+2007,FOREIGN,"Food, Drink & Primary Production",value_added,2331.0
+2007,FOREIGN,"Food, Drink & Primary Production",value_added_per_employee,243.0
+2007,FOREIGN,Information & Communication Services,irish_materials,464.0
+2007,FOREIGN,Information & Communication Services,irish_services,1448.0
+2007,FOREIGN,Information & Communication Services,value_added,12699.0
+2007,FOREIGN,Information & Communication Services,value_added_per_employee,330.0
+2007,FOREIGN,Modern Manufacturing,irish_materials,1611.0
+2007,FOREIGN,Modern Manufacturing,irish_services,2480.0
+2007,FOREIGN,Modern Manufacturing,value_added,22117.0
+2007,FOREIGN,Modern Manufacturing,value_added_per_employee,312.0
+2007,FOREIGN,Traditional Manufacturing,irish_materials,413.0
+2007,FOREIGN,Traditional Manufacturing,irish_services,471.0
+2007,FOREIGN,Traditional Manufacturing,value_added,2279.0
+2007,FOREIGN,Traditional Manufacturing,value_added_per_employee,105.0
+2007,IRISH,"Business, Financial & Other Services",irish_materials,213.0
+2007,IRISH,"Business, Financial & Other Services",irish_services,421.0
+2007,IRISH,"Business, Financial & Other Services",value_added,2422.0
+2007,IRISH,"Business, Financial & Other Services",value_added_per_employee,150.0
+2007,IRISH,"Energy, Water, Waste & Construction",irish_materials,1362.0
+2007,IRISH,"Energy, Water, Waste & Construction",irish_services,1541.0
+2007,IRISH,"Energy, Water, Waste & Construction",value_added,1847.0
+2007,IRISH,"Energy, Water, Waste & Construction",value_added_per_employee,144.0
+2007,IRISH,"Food, Drink & Primary Production",irish_materials,6073.0
+2007,IRISH,"Food, Drink & Primary Production",irish_services,1190.0
+2007,IRISH,"Food, Drink & Primary Production",value_added,2330.0
+2007,IRISH,"Food, Drink & Primary Production",value_added_per_employee,65.0
+2007,IRISH,Information & Communication Services,irish_materials,156.0
+2007,IRISH,Information & Communication Services,irish_services,255.0
+2007,IRISH,Information & Communication Services,value_added,944.0
+2007,IRISH,Information & Communication Services,value_added_per_employee,89.0
+2007,IRISH,Modern Manufacturing,irish_materials,158.0
+2007,IRISH,Modern Manufacturing,irish_services,163.0
+2007,IRISH,Modern Manufacturing,value_added,449.0
+2007,IRISH,Modern Manufacturing,value_added_per_employee,50.0
+2007,IRISH,Traditional Manufacturing,irish_materials,1640.0
+2007,IRISH,Traditional Manufacturing,irish_services,787.0
+2007,IRISH,Traditional Manufacturing,value_added,2991.0
+2007,IRISH,Traditional Manufacturing,value_added_per_employee,72.0
+2008,FOREIGN,"Business, Financial & Other Services",irish_materials,27.0
+2008,FOREIGN,"Business, Financial & Other Services",irish_services,182.0
+2008,FOREIGN,"Business, Financial & Other Services",value_added,3049.0
+2008,FOREIGN,"Business, Financial & Other Services",value_added_per_employee,231.0
+2008,FOREIGN,"Energy, Water, Waste & Construction",irish_materials,18.0
+2008,FOREIGN,"Energy, Water, Waste & Construction",irish_services,5.0
+2008,FOREIGN,"Energy, Water, Waste & Construction",value_added,80.0
+2008,FOREIGN,"Energy, Water, Waste & Construction",value_added_per_employee,147.0
+2008,FOREIGN,"Food, Drink & Primary Production",irish_materials,916.0
+2008,FOREIGN,"Food, Drink & Primary Production",irish_services,752.0
+2008,FOREIGN,"Food, Drink & Primary Production",value_added,3330.0
+2008,FOREIGN,"Food, Drink & Primary Production",value_added_per_employee,330.0
+2008,FOREIGN,Information & Communication Services,irish_materials,478.0
+2008,FOREIGN,Information & Communication Services,irish_services,1490.0
+2008,FOREIGN,Information & Communication Services,value_added,10629.0
+2008,FOREIGN,Information & Communication Services,value_added_per_employee,266.0
+2008,FOREIGN,Modern Manufacturing,irish_materials,1480.0
+2008,FOREIGN,Modern Manufacturing,irish_services,2139.0
+2008,FOREIGN,Modern Manufacturing,value_added,22464.0
+2008,FOREIGN,Modern Manufacturing,value_added_per_employee,328.0
+2008,FOREIGN,Traditional Manufacturing,irish_materials,375.0
+2008,FOREIGN,Traditional Manufacturing,irish_services,415.0
+2008,FOREIGN,Traditional Manufacturing,value_added,2112.0
+2008,FOREIGN,Traditional Manufacturing,value_added_per_employee,107.0
+2008,IRISH,"Business, Financial & Other Services",irish_materials,275.0
+2008,IRISH,"Business, Financial & Other Services",irish_services,562.0
+2008,IRISH,"Business, Financial & Other Services",value_added,2858.0
+2008,IRISH,"Business, Financial & Other Services",value_added_per_employee,134.0
+2008,IRISH,"Energy, Water, Waste & Construction",irish_materials,1571.0
+2008,IRISH,"Energy, Water, Waste & Construction",irish_services,1824.0
+2008,IRISH,"Energy, Water, Waste & Construction",value_added,2138.0
+2008,IRISH,"Energy, Water, Waste & Construction",value_added_per_employee,138.0
+2008,IRISH,"Food, Drink & Primary Production",irish_materials,6012.0
+2008,IRISH,"Food, Drink & Primary Production",irish_services,1117.0
+2008,IRISH,"Food, Drink & Primary Production",value_added,2094.0
+2008,IRISH,"Food, Drink & Primary Production",value_added_per_employee,64.0
+2008,IRISH,Information & Communication Services,irish_materials,141.0
+2008,IRISH,Information & Communication Services,irish_services,266.0
+2008,IRISH,Information & Communication Services,value_added,974.0
+2008,IRISH,Information & Communication Services,value_added_per_employee,90.0
+2008,IRISH,Modern Manufacturing,irish_materials,143.0
+2008,IRISH,Modern Manufacturing,irish_services,149.0
+2008,IRISH,Modern Manufacturing,value_added,439.0
+2008,IRISH,Modern Manufacturing,value_added_per_employee,59.0
+2008,IRISH,Traditional Manufacturing,irish_materials,1557.0
+2008,IRISH,Traditional Manufacturing,irish_services,698.0
+2008,IRISH,Traditional Manufacturing,value_added,2694.0
+2008,IRISH,Traditional Manufacturing,value_added_per_employee,75.0
+2009,FOREIGN,"Business, Financial & Other Services",irish_materials,34.0
+2009,FOREIGN,"Business, Financial & Other Services",irish_services,170.0
+2009,FOREIGN,"Business, Financial & Other Services",value_added,3271.0
+2009,FOREIGN,"Business, Financial & Other Services",value_added_per_employee,192.0
+2009,FOREIGN,"Energy, Water, Waste & Construction",irish_materials,0.0
+2009,FOREIGN,"Energy, Water, Waste & Construction",irish_services,2.0
+2009,FOREIGN,"Energy, Water, Waste & Construction",value_added,57.0
+2009,FOREIGN,"Energy, Water, Waste & Construction",value_added_per_employee,137.0
+2009,FOREIGN,"Food, Drink & Primary Production",irish_materials,854.0
+2009,FOREIGN,"Food, Drink & Primary Production",irish_services,667.0
+2009,FOREIGN,"Food, Drink & Primary Production",value_added,2847.0
+2009,FOREIGN,"Food, Drink & Primary Production",value_added_per_employee,298.0
+2009,FOREIGN,Information & Communication Services,irish_materials,372.0
+2009,FOREIGN,Information & Communication Services,irish_services,1529.0
+2009,FOREIGN,Information & Communication Services,value_added,10674.0
+2009,FOREIGN,Information & Communication Services,value_added_per_employee,293.0
+2009,FOREIGN,Modern Manufacturing,irish_materials,964.0
+2009,FOREIGN,Modern Manufacturing,irish_services,1930.0
+2009,FOREIGN,Modern Manufacturing,value_added,23722.0
+2009,FOREIGN,Modern Manufacturing,value_added_per_employee,375.0
+2009,FOREIGN,Traditional Manufacturing,irish_materials,272.0
+2009,FOREIGN,Traditional Manufacturing,irish_services,334.0
+2009,FOREIGN,Traditional Manufacturing,value_added,1545.0
+2009,FOREIGN,Traditional Manufacturing,value_added_per_employee,93.0
+2009,IRISH,"Business, Financial & Other Services",irish_materials,186.0
+2009,IRISH,"Business, Financial & Other Services",irish_services,449.0
+2009,IRISH,"Business, Financial & Other Services",value_added,2840.0
+2009,IRISH,"Business, Financial & Other Services",value_added_per_employee,145.0
+2009,IRISH,"Energy, Water, Waste & Construction",irish_materials,1089.0
+2009,IRISH,"Energy, Water, Waste & Construction",irish_services,1487.0
+2009,IRISH,"Energy, Water, Waste & Construction",value_added,1508.0
+2009,IRISH,"Energy, Water, Waste & Construction",value_added_per_employee,131.0
+2009,IRISH,"Food, Drink & Primary Production",irish_materials,4955.0
+2009,IRISH,"Food, Drink & Primary Production",irish_services,952.0
+2009,IRISH,"Food, Drink & Primary Production",value_added,2012.0
+2009,IRISH,"Food, Drink & Primary Production",value_added_per_employee,66.0
+2009,IRISH,Information & Communication Services,irish_materials,109.0
+2009,IRISH,Information & Communication Services,irish_services,243.0
+2009,IRISH,Information & Communication Services,value_added,929.0
+2009,IRISH,Information & Communication Services,value_added_per_employee,88.0
+2009,IRISH,Modern Manufacturing,irish_materials,118.0
+2009,IRISH,Modern Manufacturing,irish_services,138.0
+2009,IRISH,Modern Manufacturing,value_added,404.0
+2009,IRISH,Modern Manufacturing,value_added_per_employee,56.0
+2009,IRISH,Traditional Manufacturing,irish_materials,1044.0
+2009,IRISH,Traditional Manufacturing,irish_services,554.0
+2009,IRISH,Traditional Manufacturing,value_added,1775.0
+2009,IRISH,Traditional Manufacturing,value_added_per_employee,59.0
+2010,FOREIGN,"Business, Financial & Other Services",irish_materials,38.0
+2010,FOREIGN,"Business, Financial & Other Services",irish_services,216.0
+2010,FOREIGN,"Business, Financial & Other Services",value_added,
+2010,FOREIGN,"Business, Financial & Other Services",value_added_per_employee,
+2010,FOREIGN,"Energy, Water, Waste & Construction",irish_materials,2.0
+2010,FOREIGN,"Energy, Water, Waste & Construction",irish_services,
+2010,FOREIGN,"Energy, Water, Waste & Construction",value_added,
+2010,FOREIGN,"Energy, Water, Waste & Construction",value_added_per_employee,
+2010,FOREIGN,"Food, Drink & Primary Production",irish_materials,
+2010,FOREIGN,"Food, Drink & Primary Production",irish_services,
+2010,FOREIGN,"Food, Drink & Primary Production",value_added,2927.0
+2010,FOREIGN,"Food, Drink & Primary Production",value_added_per_employee,325.0
+2010,FOREIGN,Information & Communication Services,irish_materials,278.0
+2010,FOREIGN,Information & Communication Services,irish_services,1787.0
+2010,FOREIGN,Information & Communication Services,value_added,11454.0
+2010,FOREIGN,Information & Communication Services,value_added_per_employee,279.0
+2010,FOREIGN,Modern Manufacturing,irish_materials,1071.0
+2010,FOREIGN,Modern Manufacturing,irish_services,1787.0
+2010,FOREIGN,Modern Manufacturing,value_added,25355.0
+2010,FOREIGN,Modern Manufacturing,value_added_per_employee,431.0
+2010,FOREIGN,Traditional Manufacturing,irish_materials,315.0
+2010,FOREIGN,Traditional Manufacturing,irish_services,324.0
+2010,FOREIGN,Traditional Manufacturing,value_added,1792.0
+2010,FOREIGN,Traditional Manufacturing,value_added_per_employee,108.0
+2010,IRISH,"Business, Financial & Other Services",irish_materials,173.0
+2010,IRISH,"Business, Financial & Other Services",irish_services,463.0
+2010,IRISH,"Business, Financial & Other Services",value_added,
+2010,IRISH,"Business, Financial & Other Services",value_added_per_employee,
+2010,IRISH,"Energy, Water, Waste & Construction",irish_materials,
+2010,IRISH,"Energy, Water, Waste & Construction",irish_services,
+2010,IRISH,"Energy, Water, Waste & Construction",value_added,
+2010,IRISH,"Energy, Water, Waste & Construction",value_added_per_employee,
+2010,IRISH,"Food, Drink & Primary Production",irish_materials,
+2010,IRISH,"Food, Drink & Primary Production",irish_services,
+2010,IRISH,"Food, Drink & Primary Production",value_added,1898.0
+2010,IRISH,"Food, Drink & Primary Production",value_added_per_employee,62.0
+2010,IRISH,Information & Communication Services,irish_materials,141.0
+2010,IRISH,Information & Communication Services,irish_services,264.0
+2010,IRISH,Information & Communication Services,value_added,998.0
+2010,IRISH,Information & Communication Services,value_added_per_employee,86.0
+2010,IRISH,Modern Manufacturing,irish_materials,105.0
+2010,IRISH,Modern Manufacturing,irish_services,152.0
+2010,IRISH,Modern Manufacturing,value_added,429.0
+2010,IRISH,Modern Manufacturing,value_added_per_employee,62.0
+2010,IRISH,Traditional Manufacturing,irish_materials,809.0
+2010,IRISH,Traditional Manufacturing,irish_services,574.0
+2010,IRISH,Traditional Manufacturing,value_added,1672.0
+2010,IRISH,Traditional Manufacturing,value_added_per_employee,59.0
+2011,FOREIGN,"Business, Financial & Other Services",irish_materials,32.0
+2011,FOREIGN,"Business, Financial & Other Services",irish_services,278.0
+2011,FOREIGN,"Business, Financial & Other Services",value_added,
+2011,FOREIGN,"Business, Financial & Other Services",value_added_per_employee,
+2011,FOREIGN,"Energy, Water, Waste & Construction",irish_materials,
+2011,FOREIGN,"Energy, Water, Waste & Construction",irish_services,
+2011,FOREIGN,"Energy, Water, Waste & Construction",value_added,
+2011,FOREIGN,"Energy, Water, Waste & Construction",value_added_per_employee,
+2011,FOREIGN,"Food, Drink & Primary Production",irish_materials,
+2011,FOREIGN,"Food, Drink & Primary Production",irish_services,
+2011,FOREIGN,"Food, Drink & Primary Production",value_added,2379.0
+2011,FOREIGN,"Food, Drink & Primary Production",value_added_per_employee,
+2011,FOREIGN,Information & Communication Services,irish_materials,344.0
+2011,FOREIGN,Information & Communication Services,irish_services,2098.0
+2011,FOREIGN,Information & Communication Services,value_added,13598.0
+2011,FOREIGN,Information & Communication Services,value_added_per_employee,300.0
+2011,FOREIGN,Modern Manufacturing,irish_materials,1232.0
+2011,FOREIGN,Modern Manufacturing,irish_services,1670.0
+2011,FOREIGN,Modern Manufacturing,value_added,28728.0
+2011,FOREIGN,Modern Manufacturing,value_added_per_employee,480.0
+2011,FOREIGN,Traditional Manufacturing,irish_materials,372.0
+2011,FOREIGN,Traditional Manufacturing,irish_services,339.0
+2011,FOREIGN,Traditional Manufacturing,value_added,1896.0
+2011,FOREIGN,Traditional Manufacturing,value_added_per_employee,112.0
+2011,IRISH,"Business, Financial & Other Services",irish_materials,160.0
+2011,IRISH,"Business, Financial & Other Services",irish_services,481.0
+2011,IRISH,"Business, Financial & Other Services",value_added,
+2011,IRISH,"Business, Financial & Other Services",value_added_per_employee,
+2011,IRISH,"Energy, Water, Waste & Construction",irish_materials,
+2011,IRISH,"Energy, Water, Waste & Construction",irish_services,
+2011,IRISH,"Energy, Water, Waste & Construction",value_added,
+2011,IRISH,"Energy, Water, Waste & Construction",value_added_per_employee,
+2011,IRISH,"Food, Drink & Primary Production",irish_materials,
+2011,IRISH,"Food, Drink & Primary Production",irish_services,
+2011,IRISH,"Food, Drink & Primary Production",value_added,1980.0
+2011,IRISH,"Food, Drink & Primary Production",value_added_per_employee,
+2011,IRISH,Information & Communication Services,irish_materials,143.0
+2011,IRISH,Information & Communication Services,irish_services,296.0
+2011,IRISH,Information & Communication Services,value_added,1059.0
+2011,IRISH,Information & Communication Services,value_added_per_employee,84.0
+2011,IRISH,Modern Manufacturing,irish_materials,141.0
+2011,IRISH,Modern Manufacturing,irish_services,140.0
+2011,IRISH,Modern Manufacturing,value_added,468.0
+2011,IRISH,Modern Manufacturing,value_added_per_employee,62.0
+2011,IRISH,Traditional Manufacturing,irish_materials,1000.0
+2011,IRISH,Traditional Manufacturing,irish_services,626.0
+2011,IRISH,Traditional Manufacturing,value_added,1713.0
+2011,IRISH,Traditional Manufacturing,value_added_per_employee,57.0
+2012,FOREIGN,"Business, Financial & Other Services",irish_materials,33.0
+2012,FOREIGN,"Business, Financial & Other Services",irish_services,270.0
+2012,FOREIGN,"Business, Financial & Other Services",value_added,
+2012,FOREIGN,"Business, Financial & Other Services",value_added_per_employee,
+2012,FOREIGN,"Energy, Water, Waste & Construction",irish_materials,
+2012,FOREIGN,"Energy, Water, Waste & Construction",irish_services,
+2012,FOREIGN,"Energy, Water, Waste & Construction",value_added,
+2012,FOREIGN,"Energy, Water, Waste & Construction",value_added_per_employee,
+2012,FOREIGN,"Food, Drink & Primary Production",irish_materials,
+2012,FOREIGN,"Food, Drink & Primary Production",irish_services,
+2012,FOREIGN,"Food, Drink & Primary Production",value_added,3639.0
+2012,FOREIGN,"Food, Drink & Primary Production",value_added_per_employee,
+2012,FOREIGN,Information & Communication Services,irish_materials,376.0
+2012,FOREIGN,Information & Communication Services,irish_services,2067.0
+2012,FOREIGN,Information & Communication Services,value_added,15852.0
+2012,FOREIGN,Information & Communication Services,value_added_per_employee,322.0
+2012,FOREIGN,Modern Manufacturing,irish_materials,1218.0
+2012,FOREIGN,Modern Manufacturing,irish_services,1699.0
+2012,FOREIGN,Modern Manufacturing,value_added,27140.0
+2012,FOREIGN,Modern Manufacturing,value_added_per_employee,469.0
+2012,FOREIGN,Traditional Manufacturing,irish_materials,401.0
+2012,FOREIGN,Traditional Manufacturing,irish_services,341.0
+2012,FOREIGN,Traditional Manufacturing,value_added,1800.0
+2012,FOREIGN,Traditional Manufacturing,value_added_per_employee,109.0
+2012,IRISH,"Business, Financial & Other Services",irish_materials,236.0
+2012,IRISH,"Business, Financial & Other Services",irish_services,584.0
+2012,IRISH,"Business, Financial & Other Services",value_added,
+2012,IRISH,"Business, Financial & Other Services",value_added_per_employee,
+2012,IRISH,"Energy, Water, Waste & Construction",irish_materials,
+2012,IRISH,"Energy, Water, Waste & Construction",irish_services,
+2012,IRISH,"Energy, Water, Waste & Construction",value_added,
+2012,IRISH,"Energy, Water, Waste & Construction",value_added_per_employee,
+2012,IRISH,"Food, Drink & Primary Production",irish_materials,
+2012,IRISH,"Food, Drink & Primary Production",irish_services,
+2012,IRISH,"Food, Drink & Primary Production",value_added,2050.0
+2012,IRISH,"Food, Drink & Primary Production",value_added_per_employee,
+2012,IRISH,Information & Communication Services,irish_materials,135.0
+2012,IRISH,Information & Communication Services,irish_services,312.0
+2012,IRISH,Information & Communication Services,value_added,1168.0
+2012,IRISH,Information & Communication Services,value_added_per_employee,87.0
+2012,IRISH,Modern Manufacturing,irish_materials,157.0
+2012,IRISH,Modern Manufacturing,irish_services,151.0
+2012,IRISH,Modern Manufacturing,value_added,604.0
+2012,IRISH,Modern Manufacturing,value_added_per_employee,68.0
+2012,IRISH,Traditional Manufacturing,irish_materials,957.0
+2012,IRISH,Traditional Manufacturing,irish_services,616.0
+2012,IRISH,Traditional Manufacturing,value_added,1692.0
+2012,IRISH,Traditional Manufacturing,value_added_per_employee,58.0
+2013,FOREIGN,"Business, Financial & Other Services",irish_materials,30.0
+2013,FOREIGN,"Business, Financial & Other Services",irish_services,252.0
+2013,FOREIGN,"Business, Financial & Other Services",value_added,
+2013,FOREIGN,"Business, Financial & Other Services",value_added_per_employee,
+2013,FOREIGN,"Energy, Water, Waste & Construction",irish_materials,
+2013,FOREIGN,"Energy, Water, Waste & Construction",irish_services,17.0
+2013,FOREIGN,"Energy, Water, Waste & Construction",value_added,
+2013,FOREIGN,"Energy, Water, Waste & Construction",value_added_per_employee,
+2013,FOREIGN,"Food, Drink & Primary Production",irish_materials,
+2013,FOREIGN,"Food, Drink & Primary Production",irish_services,666.0
+2013,FOREIGN,"Food, Drink & Primary Production",value_added,3475.0
+2013,FOREIGN,"Food, Drink & Primary Production",value_added_per_employee,
+2013,FOREIGN,Information & Communication Services,irish_materials,425.0
+2013,FOREIGN,Information & Communication Services,irish_services,2215.0
+2013,FOREIGN,Information & Communication Services,value_added,16493.0
+2013,FOREIGN,Information & Communication Services,value_added_per_employee,318.0
+2013,FOREIGN,Modern Manufacturing,irish_materials,1231.0
+2013,FOREIGN,Modern Manufacturing,irish_services,1784.0
+2013,FOREIGN,Modern Manufacturing,value_added,22865.0
+2013,FOREIGN,Modern Manufacturing,value_added_per_employee,396.0
+2013,FOREIGN,Traditional Manufacturing,irish_materials,420.0
+2013,FOREIGN,Traditional Manufacturing,irish_services,376.0
+2013,FOREIGN,Traditional Manufacturing,value_added,1749.0
+2013,FOREIGN,Traditional Manufacturing,value_added_per_employee,106.0
+2013,IRISH,"Business, Financial & Other Services",irish_materials,257.0
+2013,IRISH,"Business, Financial & Other Services",irish_services,625.0
+2013,IRISH,"Business, Financial & Other Services",value_added,
+2013,IRISH,"Business, Financial & Other Services",value_added_per_employee,
+2013,IRISH,"Energy, Water, Waste & Construction",irish_materials,
+2013,IRISH,"Energy, Water, Waste & Construction",irish_services,809.0
+2013,IRISH,"Energy, Water, Waste & Construction",value_added,
+2013,IRISH,"Energy, Water, Waste & Construction",value_added_per_employee,
+2013,IRISH,"Food, Drink & Primary Production",irish_materials,
+2013,IRISH,"Food, Drink & Primary Production",irish_services,1061.0
+2013,IRISH,"Food, Drink & Primary Production",value_added,2477.0
+2013,IRISH,"Food, Drink & Primary Production",value_added_per_employee,
+2013,IRISH,Information & Communication Services,irish_materials,136.0
+2013,IRISH,Information & Communication Services,irish_services,321.0
+2013,IRISH,Information & Communication Services,value_added,1286.0
+2013,IRISH,Information & Communication Services,value_added_per_employee,89.0
+2013,IRISH,Modern Manufacturing,irish_materials,152.0
+2013,IRISH,Modern Manufacturing,irish_services,147.0
+2013,IRISH,Modern Manufacturing,value_added,573.0
+2013,IRISH,Modern Manufacturing,value_added_per_employee,68.0
+2013,IRISH,Traditional Manufacturing,irish_materials,1152.0
+2013,IRISH,Traditional Manufacturing,irish_services,633.0
+2013,IRISH,Traditional Manufacturing,value_added,1818.0
+2013,IRISH,Traditional Manufacturing,value_added_per_employee,59.0
+2014,FOREIGN,"Business, Financial & Other Services",irish_materials,31.0
+2014,FOREIGN,"Business, Financial & Other Services",irish_services,292.0
+2014,FOREIGN,"Business, Financial & Other Services",value_added,3367.0
+2014,FOREIGN,"Business, Financial & Other Services",value_added_per_employee,174.0
+2014,FOREIGN,"Energy, Water, Waste & Construction",irish_materials,
+2014,FOREIGN,"Energy, Water, Waste & Construction",irish_services,
+2014,FOREIGN,"Energy, Water, Waste & Construction",value_added,
+2014,FOREIGN,"Energy, Water, Waste & Construction",value_added_per_employee,
+2014,FOREIGN,"Food, Drink & Primary Production",irish_materials,
+2014,FOREIGN,"Food, Drink & Primary Production",irish_services,
+2014,FOREIGN,"Food, Drink & Primary Production",value_added,
+2014,FOREIGN,"Food, Drink & Primary Production",value_added_per_employee,
+2014,FOREIGN,Information & Communication Services,irish_materials,540.0
+2014,FOREIGN,Information & Communication Services,irish_services,2310.0
+2014,FOREIGN,Information & Communication Services,value_added,16456.0
+2014,FOREIGN,Information & Communication Services,value_added_per_employee,309.0
+2014,FOREIGN,Modern Manufacturing,irish_materials,1272.0
+2014,FOREIGN,Modern Manufacturing,irish_services,1726.0
+2014,FOREIGN,Modern Manufacturing,value_added,21861.0
+2014,FOREIGN,Modern Manufacturing,value_added_per_employee,379.0
+2014,FOREIGN,Traditional Manufacturing,irish_materials,431.0
+2014,FOREIGN,Traditional Manufacturing,irish_services,368.0
+2014,FOREIGN,Traditional Manufacturing,value_added,1669.0
+2014,FOREIGN,Traditional Manufacturing,value_added_per_employee,102.0
+2014,IRISH,"Business, Financial & Other Services",irish_materials,265.0
+2014,IRISH,"Business, Financial & Other Services",irish_services,690.0
+2014,IRISH,"Business, Financial & Other Services",value_added,2674.0
+2014,IRISH,"Business, Financial & Other Services",value_added_per_employee,109.0
+2014,IRISH,"Energy, Water, Waste & Construction",irish_materials,
+2014,IRISH,"Energy, Water, Waste & Construction",irish_services,
+2014,IRISH,"Energy, Water, Waste & Construction",value_added,
+2014,IRISH,"Energy, Water, Waste & Construction",value_added_per_employee,
+2014,IRISH,"Food, Drink & Primary Production",irish_materials,
+2014,IRISH,"Food, Drink & Primary Production",irish_services,
+2014,IRISH,"Food, Drink & Primary Production",value_added,
+2014,IRISH,"Food, Drink & Primary Production",value_added_per_employee,
+2014,IRISH,Information & Communication Services,irish_materials,142.0
+2014,IRISH,Information & Communication Services,irish_services,373.0
+2014,IRISH,Information & Communication Services,value_added,1467.0
+2014,IRISH,Information & Communication Services,value_added_per_employee,90.0
+2014,IRISH,Modern Manufacturing,irish_materials,181.0
+2014,IRISH,Modern Manufacturing,irish_services,156.0
+2014,IRISH,Modern Manufacturing,value_added,615.0
+2014,IRISH,Modern Manufacturing,value_added_per_employee,72.0
+2014,IRISH,Traditional Manufacturing,irish_materials,1401.0
+2014,IRISH,Traditional Manufacturing,irish_services,730.0
+2014,IRISH,Traditional Manufacturing,value_added,2149.0
+2014,IRISH,Traditional Manufacturing,value_added_per_employee,63.0
+2015,FOREIGN,"Business, Financial & Other Services",irish_materials,45.0
+2015,FOREIGN,"Business, Financial & Other Services",irish_services,371.0
+2015,FOREIGN,"Business, Financial & Other Services",value_added,4895.0
+2015,FOREIGN,"Business, Financial & Other Services",value_added_per_employee,217.0
+2015,FOREIGN,"Energy, Water, Waste & Construction",irish_materials,
+2015,FOREIGN,"Energy, Water, Waste & Construction",irish_services,
+2015,FOREIGN,"Energy, Water, Waste & Construction",value_added,
+2015,FOREIGN,"Energy, Water, Waste & Construction",value_added_per_employee,
+2015,FOREIGN,"Food, Drink & Primary Production",irish_materials,
+2015,FOREIGN,"Food, Drink & Primary Production",irish_services,
+2015,FOREIGN,"Food, Drink & Primary Production",value_added,
+2015,FOREIGN,"Food, Drink & Primary Production",value_added_per_employee,
+2015,FOREIGN,Information & Communication Services,irish_materials,495.0
+2015,FOREIGN,Information & Communication Services,irish_services,1967.0
+2015,FOREIGN,Information & Communication Services,value_added,20014.0
+2015,FOREIGN,Information & Communication Services,value_added_per_employee,344.0
+2015,FOREIGN,Modern Manufacturing,irish_materials,1289.0
+2015,FOREIGN,Modern Manufacturing,irish_services,1743.0
+2015,FOREIGN,Modern Manufacturing,value_added,26126.0
+2015,FOREIGN,Modern Manufacturing,value_added_per_employee,445.0
+2015,FOREIGN,Traditional Manufacturing,irish_materials,446.0
+2015,FOREIGN,Traditional Manufacturing,irish_services,365.0
+2015,FOREIGN,Traditional Manufacturing,value_added,2169.0
+2015,FOREIGN,Traditional Manufacturing,value_added_per_employee,127.0
+2015,IRISH,"Business, Financial & Other Services",irish_materials,295.0
+2015,IRISH,"Business, Financial & Other Services",irish_services,774.0
+2015,IRISH,"Business, Financial & Other Services",value_added,3294.0
+2015,IRISH,"Business, Financial & Other Services",value_added_per_employee,122.0
+2015,IRISH,"Energy, Water, Waste & Construction",irish_materials,
+2015,IRISH,"Energy, Water, Waste & Construction",irish_services,
+2015,IRISH,"Energy, Water, Waste & Construction",value_added,
+2015,IRISH,"Energy, Water, Waste & Construction",value_added_per_employee,
+2015,IRISH,"Food, Drink & Primary Production",irish_materials,
+2015,IRISH,"Food, Drink & Primary Production",irish_services,
+2015,IRISH,"Food, Drink & Primary Production",value_added,
+2015,IRISH,"Food, Drink & Primary Production",value_added_per_employee,
+2015,IRISH,Information & Communication Services,irish_materials,164.0
+2015,IRISH,Information & Communication Services,irish_services,419.0
+2015,IRISH,Information & Communication Services,value_added,1703.0
+2015,IRISH,Information & Communication Services,value_added_per_employee,94.0
+2015,IRISH,Modern Manufacturing,irish_materials,207.0
+2015,IRISH,Modern Manufacturing,irish_services,153.0
+2015,IRISH,Modern Manufacturing,value_added,756.0
+2015,IRISH,Modern Manufacturing,value_added_per_employee,83.0
+2015,IRISH,Traditional Manufacturing,irish_materials,1554.0
+2015,IRISH,Traditional Manufacturing,irish_services,795.0
+2015,IRISH,Traditional Manufacturing,value_added,2494.0
+2015,IRISH,Traditional Manufacturing,value_added_per_employee,67.0
+2016,FOREIGN,"Business, Financial & Other Services",irish_materials,88.0
+2016,FOREIGN,"Business, Financial & Other Services",irish_services,431.0
+2016,FOREIGN,"Business, Financial & Other Services",value_added,6002.0
+2016,FOREIGN,"Business, Financial & Other Services",value_added_per_employee,249.0
+2016,FOREIGN,"Energy, Water, Waste & Construction",irish_materials,
+2016,FOREIGN,"Energy, Water, Waste & Construction",irish_services,13.0
+2016,FOREIGN,"Energy, Water, Waste & Construction",value_added,
+2016,FOREIGN,"Energy, Water, Waste & Construction",value_added_per_employee,
+2016,FOREIGN,"Food, Drink & Primary Production",irish_materials,
+2016,FOREIGN,"Food, Drink & Primary Production",irish_services,670.0
+2016,FOREIGN,"Food, Drink & Primary Production",value_added,
+2016,FOREIGN,"Food, Drink & Primary Production",value_added_per_employee,
+2016,FOREIGN,Information & Communication Services,irish_materials,468.0
+2016,FOREIGN,Information & Communication Services,irish_services,2236.0
+2016,FOREIGN,Information & Communication Services,value_added,21259.0
+2016,FOREIGN,Information & Communication Services,value_added_per_employee,345.0
+2016,FOREIGN,Modern Manufacturing,irish_materials,1552.0
+2016,FOREIGN,Modern Manufacturing,irish_services,1700.0
+2016,FOREIGN,Modern Manufacturing,value_added,31097.0
+2016,FOREIGN,Modern Manufacturing,value_added_per_employee,508.0
+2016,FOREIGN,Traditional Manufacturing,irish_materials,502.0
+2016,FOREIGN,Traditional Manufacturing,irish_services,363.0
+2016,FOREIGN,Traditional Manufacturing,value_added,2222.0
+2016,FOREIGN,Traditional Manufacturing,value_added_per_employee,132.0
+2016,IRISH,"Business, Financial & Other Services",irish_materials,327.0
+2016,IRISH,"Business, Financial & Other Services",irish_services,834.0
+2016,IRISH,"Business, Financial & Other Services",value_added,3570.0
+2016,IRISH,"Business, Financial & Other Services",value_added_per_employee,131.0
+2016,IRISH,"Energy, Water, Waste & Construction",irish_materials,
+2016,IRISH,"Energy, Water, Waste & Construction",irish_services,1444.0
+2016,IRISH,"Energy, Water, Waste & Construction",value_added,
+2016,IRISH,"Energy, Water, Waste & Construction",value_added_per_employee,
+2016,IRISH,"Food, Drink & Primary Production",irish_materials,
+2016,IRISH,"Food, Drink & Primary Production",irish_services,1136.0
+2016,IRISH,"Food, Drink & Primary Production",value_added,
+2016,IRISH,"Food, Drink & Primary Production",value_added_per_employee,
+2016,IRISH,Information & Communication Services,irish_materials,152.0
+2016,IRISH,Information & Communication Services,irish_services,392.0
+2016,IRISH,Information & Communication Services,value_added,1763.0
+2016,IRISH,Information & Communication Services,value_added_per_employee,99.0
+2016,IRISH,Modern Manufacturing,irish_materials,214.0
+2016,IRISH,Modern Manufacturing,irish_services,169.0
+2016,IRISH,Modern Manufacturing,value_added,775.0
+2016,IRISH,Modern Manufacturing,value_added_per_employee,81.0
+2016,IRISH,Traditional Manufacturing,irish_materials,1421.0
+2016,IRISH,Traditional Manufacturing,irish_services,816.0
+2016,IRISH,Traditional Manufacturing,value_added,2440.0
+2016,IRISH,Traditional Manufacturing,value_added_per_employee,67.0
+2017,FOREIGN,"Business, Financial & Other Services",irish_materials,102.0
+2017,FOREIGN,"Business, Financial & Other Services",irish_services,506.0
+2017,FOREIGN,"Business, Financial & Other Services",value_added,6752.0
+2017,FOREIGN,"Business, Financial & Other Services",value_added_per_employee,271.0
+2017,FOREIGN,"Energy, Water, Waste & Construction",irish_materials,
+2017,FOREIGN,"Energy, Water, Waste & Construction",irish_services,18.0
+2017,FOREIGN,"Energy, Water, Waste & Construction",value_added,
+2017,FOREIGN,"Energy, Water, Waste & Construction",value_added_per_employee,
+2017,FOREIGN,"Food, Drink & Primary Production",irish_materials,
+2017,FOREIGN,"Food, Drink & Primary Production",irish_services,661.0
+2017,FOREIGN,"Food, Drink & Primary Production",value_added,
+2017,FOREIGN,"Food, Drink & Primary Production",value_added_per_employee,
+2017,FOREIGN,Information & Communication Services,irish_materials,463.0
+2017,FOREIGN,Information & Communication Services,irish_services,2584.0
+2017,FOREIGN,Information & Communication Services,value_added,22059.0
+2017,FOREIGN,Information & Communication Services,value_added_per_employee,322.0
+2017,FOREIGN,Modern Manufacturing,irish_materials,1496.0
+2017,FOREIGN,Modern Manufacturing,irish_services,1847.0
+2017,FOREIGN,Modern Manufacturing,value_added,34218.0
+2017,FOREIGN,Modern Manufacturing,value_added_per_employee,541.0
+2017,FOREIGN,Traditional Manufacturing,irish_materials,590.0
+2017,FOREIGN,Traditional Manufacturing,irish_services,367.0
+2017,FOREIGN,Traditional Manufacturing,value_added,2524.0
+2017,FOREIGN,Traditional Manufacturing,value_added_per_employee,141.0
+2017,IRISH,"Business, Financial & Other Services",irish_materials,345.0
+2017,IRISH,"Business, Financial & Other Services",irish_services,854.0
+2017,IRISH,"Business, Financial & Other Services",value_added,3536.0
+2017,IRISH,"Business, Financial & Other Services",value_added_per_employee,122.0
+2017,IRISH,"Energy, Water, Waste & Construction",irish_materials,
+2017,IRISH,"Energy, Water, Waste & Construction",irish_services,1535.0
+2017,IRISH,"Energy, Water, Waste & Construction",value_added,
+2017,IRISH,"Energy, Water, Waste & Construction",value_added_per_employee,
+2017,IRISH,"Food, Drink & Primary Production",irish_materials,
+2017,IRISH,"Food, Drink & Primary Production",irish_services,1252.0
+2017,IRISH,"Food, Drink & Primary Production",value_added,
+2017,IRISH,"Food, Drink & Primary Production",value_added_per_employee,
+2017,IRISH,Information & Communication Services,irish_materials,150.0
+2017,IRISH,Information & Communication Services,irish_services,456.0
+2017,IRISH,Information & Communication Services,value_added,1922.0
+2017,IRISH,Information & Communication Services,value_added_per_employee,100.0
+2017,IRISH,Modern Manufacturing,irish_materials,243.0
+2017,IRISH,Modern Manufacturing,irish_services,188.0
+2017,IRISH,Modern Manufacturing,value_added,805.0
+2017,IRISH,Modern Manufacturing,value_added_per_employee,81.0
+2017,IRISH,Traditional Manufacturing,irish_materials,1585.0
+2017,IRISH,Traditional Manufacturing,irish_services,879.0
+2017,IRISH,Traditional Manufacturing,value_added,2764.0
+2017,IRISH,Traditional Manufacturing,value_added_per_employee,70.0
+2018,FOREIGN,"Business, Financial & Other Services",irish_materials,91.0
+2018,FOREIGN,"Business, Financial & Other Services",irish_services,567.0
+2018,FOREIGN,"Business, Financial & Other Services",value_added,8187.0
+2018,FOREIGN,"Business, Financial & Other Services",value_added_per_employee,294.0
+2018,FOREIGN,"Energy, Water, Waste & Construction",irish_materials,
+2018,FOREIGN,"Energy, Water, Waste & Construction",irish_services,27.0
+2018,FOREIGN,"Energy, Water, Waste & Construction",value_added,
+2018,FOREIGN,"Energy, Water, Waste & Construction",value_added_per_employee,
+2018,FOREIGN,"Food, Drink & Primary Production",irish_materials,
+2018,FOREIGN,"Food, Drink & Primary Production",irish_services,615.0
+2018,FOREIGN,"Food, Drink & Primary Production",value_added,
+2018,FOREIGN,"Food, Drink & Primary Production",value_added_per_employee,
+2018,FOREIGN,Information & Communication Services,irish_materials,234.0
+2018,FOREIGN,Information & Communication Services,irish_services,3139.0
+2018,FOREIGN,Information & Communication Services,value_added,28586.0
+2018,FOREIGN,Information & Communication Services,value_added_per_employee,384.0
+2018,FOREIGN,Modern Manufacturing,irish_materials,1871.0
+2018,FOREIGN,Modern Manufacturing,irish_services,1847.0
+2018,FOREIGN,Modern Manufacturing,value_added,44135.0
+2018,FOREIGN,Modern Manufacturing,value_added_per_employee,647.0
+2018,FOREIGN,Traditional Manufacturing,irish_materials,562.0
+2018,FOREIGN,Traditional Manufacturing,irish_services,352.0
+2018,FOREIGN,Traditional Manufacturing,value_added,2573.0
+2018,FOREIGN,Traditional Manufacturing,value_added_per_employee,142.0
+2018,IRISH,"Business, Financial & Other Services",irish_materials,354.0
+2018,IRISH,"Business, Financial & Other Services",irish_services,892.0
+2018,IRISH,"Business, Financial & Other Services",value_added,3660.0
+2018,IRISH,"Business, Financial & Other Services",value_added_per_employee,129.0
+2018,IRISH,"Energy, Water, Waste & Construction",irish_materials,
+2018,IRISH,"Energy, Water, Waste & Construction",irish_services,1684.0
+2018,IRISH,"Energy, Water, Waste & Construction",value_added,
+2018,IRISH,"Energy, Water, Waste & Construction",value_added_per_employee,
+2018,IRISH,"Food, Drink & Primary Production",irish_materials,
+2018,IRISH,"Food, Drink & Primary Production",irish_services,1572.0
+2018,IRISH,"Food, Drink & Primary Production",value_added,
+2018,IRISH,"Food, Drink & Primary Production",value_added_per_employee,
+2018,IRISH,Information & Communication Services,irish_materials,145.0
+2018,IRISH,Information & Communication Services,irish_services,513.0
+2018,IRISH,Information & Communication Services,value_added,2122.0
+2018,IRISH,Information & Communication Services,value_added_per_employee,101.0
+2018,IRISH,Modern Manufacturing,irish_materials,230.0
+2018,IRISH,Modern Manufacturing,irish_services,196.0
+2018,IRISH,Modern Manufacturing,value_added,806.0
+2018,IRISH,Modern Manufacturing,value_added_per_employee,82.0
+2018,IRISH,Traditional Manufacturing,irish_materials,1624.0
+2018,IRISH,Traditional Manufacturing,irish_services,867.0
+2018,IRISH,Traditional Manufacturing,value_added,2980.0
+2018,IRISH,Traditional Manufacturing,value_added_per_employee,74.0
+2019,FOREIGN,"Business, Financial & Other Services",irish_materials,146.0
+2019,FOREIGN,"Business, Financial & Other Services",irish_services,905.0
+2019,FOREIGN,"Business, Financial & Other Services",value_added,9331.0
+2019,FOREIGN,"Business, Financial & Other Services",value_added_per_employee,301.0
+2019,FOREIGN,"Energy, Water, Waste & Construction",irish_materials,0.0
+2019,FOREIGN,"Energy, Water, Waste & Construction",irish_services,
+2019,FOREIGN,"Energy, Water, Waste & Construction",value_added,102.0
+2019,FOREIGN,"Energy, Water, Waste & Construction",value_added_per_employee,168.0
+2019,FOREIGN,"Food, Drink & Primary Production",irish_materials,856.0
+2019,FOREIGN,"Food, Drink & Primary Production",irish_services,
+2019,FOREIGN,"Food, Drink & Primary Production",value_added,3758.0
+2019,FOREIGN,"Food, Drink & Primary Production",value_added_per_employee,503.0
+2019,FOREIGN,Information & Communication Services,irish_materials,265.0
+2019,FOREIGN,Information & Communication Services,irish_services,4206.0
+2019,FOREIGN,Information & Communication Services,value_added,43421.0
+2019,FOREIGN,Information & Communication Services,value_added_per_employee,528.0
+2019,FOREIGN,Modern Manufacturing,irish_materials,2119.0
+2019,FOREIGN,Modern Manufacturing,irish_services,2060.0
+2019,FOREIGN,Modern Manufacturing,value_added,44117.0
+2019,FOREIGN,Modern Manufacturing,value_added_per_employee,622.0
+2019,FOREIGN,Traditional Manufacturing,irish_materials,414.0
+2019,FOREIGN,Traditional Manufacturing,irish_services,403.0
+2019,FOREIGN,Traditional Manufacturing,value_added,2260.0
+2019,FOREIGN,Traditional Manufacturing,value_added_per_employee,129.0
+2019,IRISH,"Business, Financial & Other Services",irish_materials,400.0
+2019,IRISH,"Business, Financial & Other Services",irish_services,1047.0
+2019,IRISH,"Business, Financial & Other Services",value_added,3573.0
+2019,IRISH,"Business, Financial & Other Services",value_added_per_employee,118.0
+2019,IRISH,"Energy, Water, Waste & Construction",irish_materials,1073.0
+2019,IRISH,"Energy, Water, Waste & Construction",irish_services,
+2019,IRISH,"Energy, Water, Waste & Construction",value_added,2587.0
+2019,IRISH,"Energy, Water, Waste & Construction",value_added_per_employee,152.0
+2019,IRISH,"Food, Drink & Primary Production",irish_materials,8771.0
+2019,IRISH,"Food, Drink & Primary Production",irish_services,
+2019,IRISH,"Food, Drink & Primary Production",value_added,3369.0
+2019,IRISH,"Food, Drink & Primary Production",value_added_per_employee,83.0
+2019,IRISH,Information & Communication Services,irish_materials,168.0
+2019,IRISH,Information & Communication Services,irish_services,541.0
+2019,IRISH,Information & Communication Services,value_added,2355.0
+2019,IRISH,Information & Communication Services,value_added_per_employee,106.0
+2019,IRISH,Modern Manufacturing,irish_materials,245.0
+2019,IRISH,Modern Manufacturing,irish_services,195.0
+2019,IRISH,Modern Manufacturing,value_added,751.0
+2019,IRISH,Modern Manufacturing,value_added_per_employee,74.0
+2019,IRISH,Traditional Manufacturing,irish_materials,1749.0
+2019,IRISH,Traditional Manufacturing,irish_services,877.0
+2019,IRISH,Traditional Manufacturing,value_added,3415.0
+2019,IRISH,Traditional Manufacturing,value_added_per_employee,82.0
+2020,FOREIGN,"Business, Financial & Other Services",irish_materials,138.0
+2020,FOREIGN,"Business, Financial & Other Services",irish_services,972.0
+2020,FOREIGN,"Business, Financial & Other Services",value_added,10599.0
+2020,FOREIGN,"Business, Financial & Other Services",value_added_per_employee,326.0
+2020,FOREIGN,"Energy, Water, Waste & Construction",irish_materials,0.0
+2020,FOREIGN,"Energy, Water, Waste & Construction",irish_services,
+2020,FOREIGN,"Energy, Water, Waste & Construction",value_added,
+2020,FOREIGN,"Energy, Water, Waste & Construction",value_added_per_employee,
+2020,FOREIGN,"Food, Drink & Primary Production",irish_materials,947.0
+2020,FOREIGN,"Food, Drink & Primary Production",irish_services,
+2020,FOREIGN,"Food, Drink & Primary Production",value_added,
+2020,FOREIGN,"Food, Drink & Primary Production",value_added_per_employee,
+2020,FOREIGN,Information & Communication Services,irish_materials,254.0
+2020,FOREIGN,Information & Communication Services,irish_services,4431.0
+2020,FOREIGN,Information & Communication Services,value_added,52572.0
+2020,FOREIGN,Information & Communication Services,value_added_per_employee,572.0
+2020,FOREIGN,Modern Manufacturing,irish_materials,1979.0
+2020,FOREIGN,Modern Manufacturing,irish_services,2210.0
+2020,FOREIGN,Modern Manufacturing,value_added,51861.0
+2020,FOREIGN,Modern Manufacturing,value_added_per_employee,648.0
+2020,FOREIGN,Traditional Manufacturing,irish_materials,433.0
+2020,FOREIGN,Traditional Manufacturing,irish_services,347.0
+2020,FOREIGN,Traditional Manufacturing,value_added,2514.0
+2020,FOREIGN,Traditional Manufacturing,value_added_per_employee,146.0
+2020,IRISH,"Business, Financial & Other Services",irish_materials,494.0
+2020,IRISH,"Business, Financial & Other Services",irish_services,991.0
+2020,IRISH,"Business, Financial & Other Services",value_added,3685.0
+2020,IRISH,"Business, Financial & Other Services",value_added_per_employee,123.0
+2020,IRISH,"Energy, Water, Waste & Construction",irish_materials,1151.0
+2020,IRISH,"Energy, Water, Waste & Construction",irish_services,
+2020,IRISH,"Energy, Water, Waste & Construction",value_added,
+2020,IRISH,"Energy, Water, Waste & Construction",value_added_per_employee,
+2020,IRISH,"Food, Drink & Primary Production",irish_materials,9139.0
+2020,IRISH,"Food, Drink & Primary Production",irish_services,
+2020,IRISH,"Food, Drink & Primary Production",value_added,
+2020,IRISH,"Food, Drink & Primary Production",value_added_per_employee,
+2020,IRISH,Information & Communication Services,irish_materials,147.0
+2020,IRISH,Information & Communication Services,irish_services,461.0
+2020,IRISH,Information & Communication Services,value_added,2209.0
+2020,IRISH,Information & Communication Services,value_added_per_employee,99.0
+2020,IRISH,Modern Manufacturing,irish_materials,299.0
+2020,IRISH,Modern Manufacturing,irish_services,232.0
+2020,IRISH,Modern Manufacturing,value_added,956.0
+2020,IRISH,Modern Manufacturing,value_added_per_employee,86.0
+2020,IRISH,Traditional Manufacturing,irish_materials,1648.0
+2020,IRISH,Traditional Manufacturing,irish_services,795.0
+2020,IRISH,Traditional Manufacturing,value_added,3268.0
+2020,IRISH,Traditional Manufacturing,value_added_per_employee,82.0
+2021,FOREIGN,"Business, Financial & Other Services",irish_materials,119.0
+2021,FOREIGN,"Business, Financial & Other Services",irish_services,1300.0
+2021,FOREIGN,"Business, Financial & Other Services",value_added,12277.0
+2021,FOREIGN,"Business, Financial & Other Services",value_added_per_employee,326.0
+2021,FOREIGN,"Energy, Water, Waste & Construction",irish_materials,0.0
+2021,FOREIGN,"Energy, Water, Waste & Construction",irish_services,
+2021,FOREIGN,"Energy, Water, Waste & Construction",value_added,88.0
+2021,FOREIGN,"Energy, Water, Waste & Construction",value_added_per_employee,164.0
+2021,FOREIGN,"Food, Drink & Primary Production",irish_materials,952.0
+2021,FOREIGN,"Food, Drink & Primary Production",irish_services,
+2021,FOREIGN,"Food, Drink & Primary Production",value_added,3238.0
+2021,FOREIGN,"Food, Drink & Primary Production",value_added_per_employee,432.0
+2021,FOREIGN,Information & Communication Services,irish_materials,231.0
+2021,FOREIGN,Information & Communication Services,irish_services,4634.0
+2021,FOREIGN,Information & Communication Services,value_added,76031.0
+2021,FOREIGN,Information & Communication Services,value_added_per_employee,781.0
+2021,FOREIGN,Modern Manufacturing,irish_materials,2225.0
+2021,FOREIGN,Modern Manufacturing,irish_services,2510.0
+2021,FOREIGN,Modern Manufacturing,value_added,54280.0
+2021,FOREIGN,Modern Manufacturing,value_added_per_employee,652.0
+2021,FOREIGN,Traditional Manufacturing,irish_materials,474.0
+2021,FOREIGN,Traditional Manufacturing,irish_services,379.0
+2021,FOREIGN,Traditional Manufacturing,value_added,2850.0
+2021,FOREIGN,Traditional Manufacturing,value_added_per_employee,166.0
+2021,IRISH,"Business, Financial & Other Services",irish_materials,434.0
+2021,IRISH,"Business, Financial & Other Services",irish_services,1120.0
+2021,IRISH,"Business, Financial & Other Services",value_added,3943.0
+2021,IRISH,"Business, Financial & Other Services",value_added_per_employee,122.0
+2021,IRISH,"Energy, Water, Waste & Construction",irish_materials,1224.0
+2021,IRISH,"Energy, Water, Waste & Construction",irish_services,
+2021,IRISH,"Energy, Water, Waste & Construction",value_added,3358.0
+2021,IRISH,"Energy, Water, Waste & Construction",value_added_per_employee,173.0
+2021,IRISH,"Food, Drink & Primary Production",irish_materials,10337.0
+2021,IRISH,"Food, Drink & Primary Production",irish_services,
+2021,IRISH,"Food, Drink & Primary Production",value_added,3596.0
+2021,IRISH,"Food, Drink & Primary Production",value_added_per_employee,82.0
+2021,IRISH,Information & Communication Services,irish_materials,177.0
+2021,IRISH,Information & Communication Services,irish_services,548.0
+2021,IRISH,Information & Communication Services,value_added,2489.0
+2021,IRISH,Information & Communication Services,value_added_per_employee,106.0
+2021,IRISH,Modern Manufacturing,irish_materials,384.0
+2021,IRISH,Modern Manufacturing,irish_services,275.0
+2021,IRISH,Modern Manufacturing,value_added,1330.0
+2021,IRISH,Modern Manufacturing,value_added_per_employee,110.0
+2021,IRISH,Traditional Manufacturing,irish_materials,1791.0
+2021,IRISH,Traditional Manufacturing,irish_services,900.0
+2021,IRISH,Traditional Manufacturing,value_added,3888.0
+2021,IRISH,Traditional Manufacturing,value_added_per_employee,93.0
+2022,FOREIGN,"Business, Financial & Other Services",irish_materials,58.0
+2022,FOREIGN,"Business, Financial & Other Services",irish_services,1689.0
+2022,FOREIGN,"Business, Financial & Other Services",value_added,14514.0
+2022,FOREIGN,"Business, Financial & Other Services",value_added_per_employee,354.0
+2022,FOREIGN,"Energy, Water, Waste & Construction",irish_materials,
+2022,FOREIGN,"Energy, Water, Waste & Construction",irish_services,20.0
+2022,FOREIGN,"Energy, Water, Waste & Construction",value_added,-7.0
+2022,FOREIGN,"Energy, Water, Waste & Construction",value_added_per_employee,
+2022,FOREIGN,"Food, Drink & Primary Production",irish_materials,
+2022,FOREIGN,"Food, Drink & Primary Production",irish_services,531.0
+2022,FOREIGN,"Food, Drink & Primary Production",value_added,4632.0
+2022,FOREIGN,"Food, Drink & Primary Production",value_added_per_employee,
+2022,FOREIGN,Information & Communication Services,irish_materials,307.0
+2022,FOREIGN,Information & Communication Services,irish_services,5631.0
+2022,FOREIGN,Information & Communication Services,value_added,86081.0
+2022,FOREIGN,Information & Communication Services,value_added_per_employee,813.0
+2022,FOREIGN,Modern Manufacturing,irish_materials,2282.0
+2022,FOREIGN,Modern Manufacturing,irish_services,2903.0
+2022,FOREIGN,Modern Manufacturing,value_added,62357.0
+2022,FOREIGN,Modern Manufacturing,value_added_per_employee,704.0
+2022,FOREIGN,Traditional Manufacturing,irish_materials,598.0
+2022,FOREIGN,Traditional Manufacturing,irish_services,441.0
+2022,FOREIGN,Traditional Manufacturing,value_added,3066.0
+2022,FOREIGN,Traditional Manufacturing,value_added_per_employee,172.0
+2022,IRISH,"Business, Financial & Other Services",irish_materials,613.0
+2022,IRISH,"Business, Financial & Other Services",irish_services,1332.0
+2022,IRISH,"Business, Financial & Other Services",value_added,5268.0
+2022,IRISH,"Business, Financial & Other Services",value_added_per_employee,150.0
+2022,IRISH,"Energy, Water, Waste & Construction",irish_materials,
+2022,IRISH,"Energy, Water, Waste & Construction",irish_services,2143.0
+2022,IRISH,"Energy, Water, Waste & Construction",value_added,3935.0
+2022,IRISH,"Energy, Water, Waste & Construction",value_added_per_employee,
+2022,IRISH,"Food, Drink & Primary Production",irish_materials,
+2022,IRISH,"Food, Drink & Primary Production",irish_services,1855.0
+2022,IRISH,"Food, Drink & Primary Production",value_added,3994.0
+2022,IRISH,"Food, Drink & Primary Production",value_added_per_employee,
+2022,IRISH,Information & Communication Services,irish_materials,197.0
+2022,IRISH,Information & Communication Services,irish_services,634.0
+2022,IRISH,Information & Communication Services,value_added,2910.0
+2022,IRISH,Information & Communication Services,value_added_per_employee,116.0
+2022,IRISH,Modern Manufacturing,irish_materials,414.0
+2022,IRISH,Modern Manufacturing,irish_services,311.0
+2022,IRISH,Modern Manufacturing,value_added,1724.0
+2022,IRISH,Modern Manufacturing,value_added_per_employee,135.0
+2022,IRISH,Traditional Manufacturing,irish_materials,2068.0
+2022,IRISH,Traditional Manufacturing,irish_services,1110.0
+2022,IRISH,Traditional Manufacturing,value_added,4944.0
+2022,IRISH,Traditional Manufacturing,value_added_per_employee,114.0
+2023,FOREIGN,"Business, Financial & Other Services",irish_materials,90.0
+2023,FOREIGN,"Business, Financial & Other Services",irish_services,1754.0
+2023,FOREIGN,"Business, Financial & Other Services",value_added,19565.0
+2023,FOREIGN,"Business, Financial & Other Services",value_added_per_employee,440.0
+2023,FOREIGN,"Energy, Water, Waste & Construction",irish_materials,0.0
+2023,FOREIGN,"Energy, Water, Waste & Construction",irish_services,
+2023,FOREIGN,"Energy, Water, Waste & Construction",value_added,-11.0
+2023,FOREIGN,"Energy, Water, Waste & Construction",value_added_per_employee,
+2023,FOREIGN,"Food, Drink & Primary Production",irish_materials,1328.0
+2023,FOREIGN,"Food, Drink & Primary Production",irish_services,
+2023,FOREIGN,"Food, Drink & Primary Production",value_added,4416.0
+2023,FOREIGN,"Food, Drink & Primary Production",value_added_per_employee,
+2023,FOREIGN,Information & Communication Services,irish_materials,340.0
+2023,FOREIGN,Information & Communication Services,irish_services,5574.0
+2023,FOREIGN,Information & Communication Services,value_added,95950.0
+2023,FOREIGN,Information & Communication Services,value_added_per_employee,942.0
+2023,FOREIGN,Modern Manufacturing,irish_materials,2488.0
+2023,FOREIGN,Modern Manufacturing,irish_services,3463.0
+2023,FOREIGN,Modern Manufacturing,value_added,60261.0
+2023,FOREIGN,Modern Manufacturing,value_added_per_employee,662.0
+2023,FOREIGN,Traditional Manufacturing,irish_materials,558.0
+2023,FOREIGN,Traditional Manufacturing,irish_services,350.0
+2023,FOREIGN,Traditional Manufacturing,value_added,3086.0
+2023,FOREIGN,Traditional Manufacturing,value_added_per_employee,170.0
+2023,IRISH,"Business, Financial & Other Services",irish_materials,660.0
+2023,IRISH,"Business, Financial & Other Services",irish_services,1414.0
+2023,IRISH,"Business, Financial & Other Services",value_added,5981.0
+2023,IRISH,"Business, Financial & Other Services",value_added_per_employee,159.0
+2023,IRISH,"Energy, Water, Waste & Construction",irish_materials,2056.0
+2023,IRISH,"Energy, Water, Waste & Construction",irish_services,2570.0
+2023,IRISH,"Energy, Water, Waste & Construction",value_added,4854.0
+2023,IRISH,"Energy, Water, Waste & Construction",value_added_per_employee,
+2023,IRISH,"Food, Drink & Primary Production",irish_materials,12651.0
+2023,IRISH,"Food, Drink & Primary Production",irish_services,
+2023,IRISH,"Food, Drink & Primary Production",value_added,4188.0
+2023,IRISH,"Food, Drink & Primary Production",value_added_per_employee,
+2023,IRISH,Information & Communication Services,irish_materials,199.0
+2023,IRISH,Information & Communication Services,irish_services,653.0
+2023,IRISH,Information & Communication Services,value_added,3276.0
+2023,IRISH,Information & Communication Services,value_added_per_employee,124.0
+2023,IRISH,Modern Manufacturing,irish_materials,437.0
+2023,IRISH,Modern Manufacturing,irish_services,
+2023,IRISH,Modern Manufacturing,value_added,1744.0
+2023,IRISH,Modern Manufacturing,value_added_per_employee,137.0
+2023,IRISH,Traditional Manufacturing,irish_materials,2130.0
+2023,IRISH,Traditional Manufacturing,irish_services,1174.0
+2023,IRISH,Traditional Manufacturing,value_added,5234.0
+2023,IRISH,Traditional Manufacturing,value_added_per_employee,117.0
+2024,FOREIGN,"Business, Financial & Other Services",irish_materials,120.0
+2024,FOREIGN,"Business, Financial & Other Services",irish_services,1745.0
+2024,FOREIGN,"Business, Financial & Other Services",value_added,20215.0
+2024,FOREIGN,"Business, Financial & Other Services",value_added_per_employee,450.0
+2024,FOREIGN,"Energy, Water, Waste & Construction",irish_materials,0.0
+2024,FOREIGN,"Energy, Water, Waste & Construction",irish_services,
+2024,FOREIGN,"Energy, Water, Waste & Construction",value_added,
+2024,FOREIGN,"Energy, Water, Waste & Construction",value_added_per_employee,
+2024,FOREIGN,"Food, Drink & Primary Production",irish_materials,1378.0
+2024,FOREIGN,"Food, Drink & Primary Production",irish_services,
+2024,FOREIGN,"Food, Drink & Primary Production",value_added,
+2024,FOREIGN,"Food, Drink & Primary Production",value_added_per_employee,
+2024,FOREIGN,Information & Communication Services,irish_materials,377.0
+2024,FOREIGN,Information & Communication Services,irish_services,5870.0
+2024,FOREIGN,Information & Communication Services,value_added,105638.0
+2024,FOREIGN,Information & Communication Services,value_added_per_employee,1054.0
+2024,FOREIGN,Modern Manufacturing,irish_materials,2727.0
+2024,FOREIGN,Modern Manufacturing,irish_services,3520.0
+2024,FOREIGN,Modern Manufacturing,value_added,65183.0
+2024,FOREIGN,Modern Manufacturing,value_added_per_employee,710.0
+2024,FOREIGN,Traditional Manufacturing,irish_materials,521.0
+2024,FOREIGN,Traditional Manufacturing,irish_services,361.0
+2024,FOREIGN,Traditional Manufacturing,value_added,3240.0
+2024,FOREIGN,Traditional Manufacturing,value_added_per_employee,176.0
+2024,IRISH,"Business, Financial & Other Services",irish_materials,668.0
+2024,IRISH,"Business, Financial & Other Services",irish_services,1481.0
+2024,IRISH,"Business, Financial & Other Services",value_added,6487.0
+2024,IRISH,"Business, Financial & Other Services",value_added_per_employee,166.0
+2024,IRISH,"Energy, Water, Waste & Construction",irish_materials,2272.0
+2024,IRISH,"Energy, Water, Waste & Construction",irish_services,2879.0
+2024,IRISH,"Energy, Water, Waste & Construction",value_added,
+2024,IRISH,"Energy, Water, Waste & Construction",value_added_per_employee,
+2024,IRISH,"Food, Drink & Primary Production",irish_materials,13622.0
+2024,IRISH,"Food, Drink & Primary Production",irish_services,
+2024,IRISH,"Food, Drink & Primary Production",value_added,
+2024,IRISH,"Food, Drink & Primary Production",value_added_per_employee,
+2024,IRISH,Information & Communication Services,irish_materials,203.0
+2024,IRISH,Information & Communication Services,irish_services,709.0
+2024,IRISH,Information & Communication Services,value_added,3417.0
+2024,IRISH,Information & Communication Services,value_added_per_employee,129.0
+2024,IRISH,Modern Manufacturing,irish_materials,460.0
+2024,IRISH,Modern Manufacturing,irish_services,
+2024,IRISH,Modern Manufacturing,value_added,1902.0
+2024,IRISH,Modern Manufacturing,value_added_per_employee,141.0
+2024,IRISH,Traditional Manufacturing,irish_materials,2119.0
+2024,IRISH,Traditional Manufacturing,irish_services,1262.0
+2024,IRISH,Traditional Manufacturing,value_added,5472.0
+2024,IRISH,Traditional Manufacturing,value_added_per_employee,120.0
